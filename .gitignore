@@ -37,3 +37,5 @@ rsconnect/
 .Rproj.user
 packrat/lib*/
 packrat/src/
+
+data/build-data.rds
