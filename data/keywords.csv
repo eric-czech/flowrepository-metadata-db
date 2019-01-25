@@ -1,0 +1,1928 @@
+exp_id,keyword
+FR-FCM-ZZZ3,Innate Immune Response
+FR-FCM-ZZZ3,Toll-like receptors
+FR-FCM-ZZZ3,Activation markers
+FR-FCM-ZZZ3,B cells
+FR-FCM-ZZZ3,MIFlowCyt
+FR-FCM-ZZZ4,FCS
+FR-FCM-ZZZ4,test
+FR-FCM-ZZZ4,compliance
+FR-FCM-ZZZA,Human early preterm cord blood
+FR-FCM-ZZZA,CD34
+FR-FCM-ZZZA,hematopoietic stem cells
+FR-FCM-ZZZF,CLL
+FR-FCM-ZZZF,hairy cell leukemia
+FR-FCM-ZZZK,HIV
+FR-FCM-ZZZK,Bioinformatics
+FR-FCM-ZZZK,AIDS Free Survival
+FR-FCM-ZZZU,Classification
+FR-FCM-ZZZU,Bioinformatics
+FR-FCM-ZZZU,HIV exposed but uninfected
+FR-FCM-ZZZU,HIV unexposed
+FR-FCM-ZZZV,FlowCAP
+FR-FCM-ZZZV,Bioinformatics
+FR-FCM-ZZZV,Intracellular Cytokine Staining
+FR-FCM-ZZZV,HVTN
+FR-FCM-ZZZV,ICS
+FR-FCM-ZZYZ,Bioinformatics
+FR-FCM-ZZYZ,flow cytometry
+FR-FCM-ZZYZ,automated gating
+FR-FCM-ZZYY,Lymphoma
+FR-FCM-ZZYY,Bioinformatics
+FR-FCM-ZZYY,diffuse large B-cell lymphoma
+FR-FCM-ZZYY,automated gating
+FR-FCM-ZZY2,Bioinformatics
+FR-FCM-ZZY2,GvHD
+FR-FCM-ZZY2,automatic gating
+FR-FCM-ZZY3,West Nile Virus
+FR-FCM-ZZY3,Tansplantation
+FR-FCM-ZZY3,cytokines
+FR-FCM-ZZY6,hematopoietic stem cells
+FR-FCM-ZZY6,Transplantation
+FR-FCM-ZZY6,lymphoid
+FR-FCM-ZZY7,flow cytometry
+FR-FCM-ZZY7,High Throughput
+FR-FCM-ZZY7,Doublet
+FR-FCM-ZZY7,Mean Fluorescence Intensity (MFI)
+FR-FCM-ZZY7,linear and quadratic regressions
+FR-FCM-ZZY7,Q (detector efficiency)
+FR-FCM-ZZY7,B (background light level)
+FR-FCM-ZZY7,Instrument Sensitivity
+FR-FCM-ZZY7,K-means
+FR-FCM-ZZY7,Molecules of Equivalent Soluble Fluorochrome (MESF)
+FR-FCM-ZZY7,BD CS&T beads
+FR-FCM-ZZY7,Kmeans Automatic Clustering
+FR-FCM-ZZY9,bleaching response; zooxanthellae; chlorophyll; flow cytometry; microscopy
+FR-FCM-ZZYA,Classification
+FR-FCM-ZZYA,Bioinformatics
+FR-FCM-ZZYA,flow cytometry
+FR-FCM-ZZYA,Acute Myeloid Leukemia
+FR-FCM-ZZYE,AmCyan100
+FR-FCM-ZZYE,Stain Index
+FR-FCM-ZZYE,Spillover
+FR-FCM-ZZYF,Neutrophil
+FR-FCM-ZZYF,autoimmune
+FR-FCM-ZZYF,isolation
+FR-FCM-ZZYF,spleen
+FR-FCM-ZZYK,flow cytometry
+FR-FCM-ZZYK,Cryoglobulins
+FR-FCM-ZZYK,detection
+FR-FCM-ZZYL,ICS; standardization; reproducibility; positivity threshold; F-score; automated analysis
+FR-FCM-ZZYQ,5-ethynyl-2’-deoxyuridine; T lymphocyte] [proliferation; surface antibodies
+FR-FCM-ZZYR,Cancer
+FR-FCM-ZZYR,metastasis
+FR-FCM-ZZYR,circulating tumor cells (CTCs)
+FR-FCM-ZZYR,CD44
+FR-FCM-ZZYR,M-30
+FR-FCM-ZZYR,CellSearch® system
+FR-FCM-ZZYR,user-defined marker
+FR-FCM-ZZYR,CTC characterization
+FR-FCM-ZZ2Z,Immunophenotyping
+FR-FCM-ZZ2Y,Immunophenotyping
+FR-FCM-ZZ23,Immunophenotyping
+FR-FCM-ZZ24,Immunophenotyping
+FR-FCM-ZZ28,Immunophenotyping
+FR-FCM-ZZ29,Autophagy LC3B LTG Annexinn V
+FR-FCM-ZZ2B,DFI
+FR-FCM-ZZ2B,Sperm
+FR-FCM-ZZ2B,IUI
+FR-FCM-ZZ2L,Intracellular Cytokine Staining
+FR-FCM-ZZ2L,T cell
+FR-FCM-ZZ2M,multicolor flow cytometry
+FR-FCM-ZZ2M,chemokine receptor
+FR-FCM-ZZ2M,antibody staining
+FR-FCM-ZZ2M,monocyte
+FR-FCM-ZZ2P,PBMC
+FR-FCM-ZZ2P,signaling
+FR-FCM-ZZ2T,Innate Immune Response
+FR-FCM-ZZ2T,Intracellular cytokines; CD8 T cells
+FR-FCM-ZZ2T,CD4 T cells; HIV; SIV; vaccines
+FR-FCM-ZZ2U,CD34
+FR-FCM-ZZ2U,CD14
+FR-FCM-ZZ2U,BREAST CANCER STEM CELL
+FR-FCM-ZZ2V,[Immune Response] [Intracellular cytokines]; [CD8 T cells] [CD4 T cells]; [HIV]; [SIV]; [vaccines] [human]
+FR-FCM-ZZ3Z,Innate Immune Response
+FR-FCM-ZZ3Z,CD4 T cells; HIV; SIV; vaccines
+FR-FCM-ZZ3Z,Intracellular cytokines; CD8 T cells; optimization
+FR-FCM-ZZ3Y,Innate Immune Response
+FR-FCM-ZZ3Y,Intracellular cytokines; CD8 T cells
+FR-FCM-ZZ3Y,CD4 T cells; HIV; SIV; vaccines
+FR-FCM-ZZ32,HIV
+FR-FCM-ZZ32,APOPTOSIS
+FR-FCM-ZZ32,CASPASE
+FR-FCM-ZZ33,interleukin-1 receptor; peripheral blood mononuclear cells; quantitative analysis.
+FR-FCM-ZZ36,chemokine receptors
+FR-FCM-ZZ36,T cell Phenotyping
+FR-FCM-ZZ36,T cell memory subsets
+FR-FCM-ZZ38,Gene expression
+FR-FCM-ZZ3L,nanoparticle
+FR-FCM-ZZ3L,trigger
+FR-FCM-ZZ3L,fluorescence
+FR-FCM-ZZ3L,light scatter
+FR-FCM-ZZ3M,B cells
+FR-FCM-ZZ3M,T cell
+FR-FCM-ZZ3M,PBMC
+FR-FCM-ZZ3M,EMBO
+FR-FCM-ZZ3M,CD5
+FR-FCM-ZZ3M,CD20
+FR-FCM-ZZ3N,B cells
+FR-FCM-ZZ3N,trigger
+FR-FCM-ZZ3N,BCR
+FR-FCM-ZZ3N,IgM
+FR-FCM-ZZ3X,Purity Sort
+FR-FCM-ZZ3X,T cell
+FR-FCM-ZZ3X,Ficoll
+FR-FCM-ZZ3X,CD4
+FR-FCM-ZZ4B,flow cytometry
+FR-FCM-ZZ4B,lymphocyte subsets
+FR-FCM-ZZ4B,CD7 antigen
+FR-FCM-ZZ4B,CD33 antigen
+FR-FCM-ZZ4B,NK cells
+FR-FCM-ZZ4B,monocytes
+FR-FCM-ZZ4B,basophils
+FR-FCM-ZZ4E,flow cytometry; data analysis; statistical analysis; normalization
+FR-FCM-ZZ4G,calcium influx
+FR-FCM-ZZ4G,data analysis
+FR-FCM-ZZ4G,kinetic flow cytometry
+FR-FCM-ZZ4G,potassium channel
+FR-FCM-ZZ4G,rheumatoid arthritis
+FR-FCM-ZZ4G,T lymphocyte
+FR-FCM-ZZ4W,Ly49G2
+FR-FCM-ZZ4W,Ly49I/U
+FR-FCM-ZZ4W,H-2k
+FR-FCM-ZZ4W,MHC
+FR-FCM-ZZ4W,NKC
+FR-FCM-ZZ4W,NKp46
+FR-FCM-ZZ4W,NCR
+FR-FCM-ZZ4W,14B11
+FR-FCM-ZZ4W,4D11
+FR-FCM-ZZ4J,Ly49G2
+FR-FCM-ZZ4J,Ly49I/U
+FR-FCM-ZZ4J,H-2k
+FR-FCM-ZZ4J,MHC
+FR-FCM-ZZ4J,NKC
+FR-FCM-ZZ4J,NKp46
+FR-FCM-ZZ4J,NCR
+FR-FCM-ZZ4J,14B11
+FR-FCM-ZZ4J,4D11
+FR-FCM-ZZ4J,MCMV
+FR-FCM-ZZ4K,Ly49G2
+FR-FCM-ZZ4K,Ly49I/U
+FR-FCM-ZZ4K,H-2k
+FR-FCM-ZZ4K,MHC
+FR-FCM-ZZ4K,NKC
+FR-FCM-ZZ4K,NKp46
+FR-FCM-ZZ4K,NCR
+FR-FCM-ZZ4K,14B11
+FR-FCM-ZZ4K,4D11
+FR-FCM-ZZ4L,Ly49G2
+FR-FCM-ZZ4L,Ly49I/U
+FR-FCM-ZZ4L,H-2k
+FR-FCM-ZZ4L,MHC
+FR-FCM-ZZ4L,NKC
+FR-FCM-ZZ4L,NKp46
+FR-FCM-ZZ4L,NCR
+FR-FCM-ZZ4L,14B11
+FR-FCM-ZZ4L,4D11
+FR-FCM-ZZ4L,MCMV
+FR-FCM-ZZ4N,Ly49G2
+FR-FCM-ZZ4N,Ly49I/U
+FR-FCM-ZZ4N,H-2k
+FR-FCM-ZZ4N,MHC
+FR-FCM-ZZ4N,NKC
+FR-FCM-ZZ4N,NKp46
+FR-FCM-ZZ4N,NCR
+FR-FCM-ZZ4N,14B11
+FR-FCM-ZZ4N,4D11
+FR-FCM-ZZ4X,Ly49G2
+FR-FCM-ZZ4X,Ly49I/U
+FR-FCM-ZZ4X,H-2k
+FR-FCM-ZZ4X,MHC
+FR-FCM-ZZ4X,NKC
+FR-FCM-ZZ4X,NKp46
+FR-FCM-ZZ4X,NCR
+FR-FCM-ZZ4X,14B11
+FR-FCM-ZZ4X,4D11
+FR-FCM-ZZ4X,MCMV
+FR-FCM-ZZ4P,Flow cytometer sensitivity
+FR-FCM-ZZ4Q,clonogenic assay
+FR-FCM-ZZ4Q,clonogenic capacity
+FR-FCM-ZZ4Q,plating efficiency
+FR-FCM-ZZ4Q,cancer stem cells
+FR-FCM-ZZ4Q,extreme limiting dilution analysis
+FR-FCM-ZZ4Q,single cell sorting
+FR-FCM-ZZ4V,NK cells
+FR-FCM-ZZ4V,Ly49G2
+FR-FCM-ZZ4V,Ly49I/U
+FR-FCM-ZZ4V,H-2k
+FR-FCM-ZZ4V,MHC
+FR-FCM-ZZ4V,NKp46
+FR-FCM-ZZ4V,NCR
+FR-FCM-ZZ4V,14B11
+FR-FCM-ZZ4V,4D11
+FR-FCM-ZZ5Z,Ly49G2
+FR-FCM-ZZ5Z,Ly49I/U
+FR-FCM-ZZ5Z,H-2k
+FR-FCM-ZZ5Z,MHC
+FR-FCM-ZZ5Z,NKC
+FR-FCM-ZZ5Z,NKp46
+FR-FCM-ZZ5Z,NCR
+FR-FCM-ZZ5Z,14B11
+FR-FCM-ZZ5Z,4D11
+FR-FCM-ZZ5Z,MCMV
+FR-FCM-ZZ5Y,Ly49G2
+FR-FCM-ZZ5Y,Ly49I/U
+FR-FCM-ZZ5Y,H-2k
+FR-FCM-ZZ5Y,MHC
+FR-FCM-ZZ5Y,NKC
+FR-FCM-ZZ5Y,NKp46
+FR-FCM-ZZ5Y,NCR
+FR-FCM-ZZ5Y,14B11
+FR-FCM-ZZ5Y,4D11
+FR-FCM-ZZ52,Ly49G2
+FR-FCM-ZZ52,H-2k
+FR-FCM-ZZ52,MHC
+FR-FCM-ZZ52,NKC
+FR-FCM-ZZ52,NKp46
+FR-FCM-ZZ52,NCR
+FR-FCM-ZZ52,14B11
+FR-FCM-ZZ52,4D11
+FR-FCM-ZZ52,MCMV
+FR-FCM-ZZ53,Ly49G2
+FR-FCM-ZZ53,Ly49I/U
+FR-FCM-ZZ53,H-2k
+FR-FCM-ZZ53,MHC
+FR-FCM-ZZ53,NKC
+FR-FCM-ZZ53,NKp46
+FR-FCM-ZZ53,NCR
+FR-FCM-ZZ53,14B11
+FR-FCM-ZZ53,4D11
+FR-FCM-ZZ54,Ly49G2
+FR-FCM-ZZ54,Ly49I/U
+FR-FCM-ZZ54,H-2k
+FR-FCM-ZZ54,MHC
+FR-FCM-ZZ54,NKC
+FR-FCM-ZZ54,NKp46
+FR-FCM-ZZ54,NCR
+FR-FCM-ZZ54,14B11
+FR-FCM-ZZ54,4D11
+FR-FCM-ZZ54,MCMV
+FR-FCM-ZZ55,Idiosyncratic drug-induced hepatotoxicity
+FR-FCM-ZZ55,hepatic transporters
+FR-FCM-ZZ55,MDR1
+FR-FCM-ZZ55,MRP2
+FR-FCM-ZZ55,microvolume cytometry
+FR-FCM-ZZ5B,Ly49G2
+FR-FCM-ZZ5B,Ly49I/U
+FR-FCM-ZZ5B,H-2k
+FR-FCM-ZZ5B,MHC
+FR-FCM-ZZ5B,NKC
+FR-FCM-ZZ5B,NKp46
+FR-FCM-ZZ5B,NCR
+FR-FCM-ZZ5B,14B11
+FR-FCM-ZZ5B,4D11
+FR-FCM-ZZ5C,Ly49G2
+FR-FCM-ZZ5C,Ly49I/U
+FR-FCM-ZZ5C,H-2k
+FR-FCM-ZZ5C,MHC
+FR-FCM-ZZ5C,NKC
+FR-FCM-ZZ5C,NKp46
+FR-FCM-ZZ5C,NCR
+FR-FCM-ZZ5C,14B11
+FR-FCM-ZZ5C,4D11
+FR-FCM-ZZ5D,Ly49G2
+FR-FCM-ZZ5D,Ly49I/U
+FR-FCM-ZZ5D,H-2k
+FR-FCM-ZZ5D,MHC
+FR-FCM-ZZ5D,NKC
+FR-FCM-ZZ5D,NKp46
+FR-FCM-ZZ5D,NCR
+FR-FCM-ZZ5D,14B11
+FR-FCM-ZZ5D,4D11
+FR-FCM-ZZ5D,MCMV
+FR-FCM-ZZ5E,Ly49G2
+FR-FCM-ZZ5E,Ly49I/U
+FR-FCM-ZZ5E,H-2k
+FR-FCM-ZZ5E,MHC
+FR-FCM-ZZ5E,NKC
+FR-FCM-ZZ5E,NKp46
+FR-FCM-ZZ5E,NCR
+FR-FCM-ZZ5E,14B11
+FR-FCM-ZZ5E,4D11
+FR-FCM-ZZ5F,Ly49G2
+FR-FCM-ZZ5F,Ly49I/U
+FR-FCM-ZZ5F,H-2k
+FR-FCM-ZZ5F,MHC
+FR-FCM-ZZ5F,NKC
+FR-FCM-ZZ5F,NKp46
+FR-FCM-ZZ5F,NCR
+FR-FCM-ZZ5F,14B11
+FR-FCM-ZZ5F,4D11
+FR-FCM-ZZ5F,MCMV
+FR-FCM-ZZ5H,Ly49G2
+FR-FCM-ZZ5H,Ly49I/U
+FR-FCM-ZZ5H,H-2k
+FR-FCM-ZZ5H,MHC
+FR-FCM-ZZ5H,NKC
+FR-FCM-ZZ5H,NKp46
+FR-FCM-ZZ5H,NCR
+FR-FCM-ZZ5H,14B11
+FR-FCM-ZZ5H,4D11
+FR-FCM-ZZ5W,Ly49G2
+FR-FCM-ZZ5W,Ly49I/U
+FR-FCM-ZZ5W,H-2k
+FR-FCM-ZZ5W,MHC
+FR-FCM-ZZ5W,NKC
+FR-FCM-ZZ5W,NKp46
+FR-FCM-ZZ5W,NCR
+FR-FCM-ZZ5W,14B11
+FR-FCM-ZZ5W,4D11
+FR-FCM-ZZ5J,Ly49G2
+FR-FCM-ZZ5J,Ly49I/U
+FR-FCM-ZZ5J,H-2k
+FR-FCM-ZZ5J,MHC
+FR-FCM-ZZ5J,NKC
+FR-FCM-ZZ5J,NKp46
+FR-FCM-ZZ5J,NCR
+FR-FCM-ZZ5J,14B11
+FR-FCM-ZZ5J,4D11
+FR-FCM-ZZ5J,MCMV
+FR-FCM-ZZ5K,Ly49G2
+FR-FCM-ZZ5K,Ly49I/U
+FR-FCM-ZZ5K,H-2k
+FR-FCM-ZZ5K,MHC
+FR-FCM-ZZ5K,NKC
+FR-FCM-ZZ5K,NKp46
+FR-FCM-ZZ5K,NCR
+FR-FCM-ZZ5K,14B11
+FR-FCM-ZZ5K,4D11
+FR-FCM-ZZ5L,Ly49G2
+FR-FCM-ZZ5L,Ly49I/U
+FR-FCM-ZZ5L,H-2k
+FR-FCM-ZZ5L,MHC
+FR-FCM-ZZ5L,NKC
+FR-FCM-ZZ5L,NKp46
+FR-FCM-ZZ5L,NCR
+FR-FCM-ZZ5L,14B11
+FR-FCM-ZZ5L,4D11
+FR-FCM-ZZ5L,MCMV
+FR-FCM-ZZ5M,Ly49G2
+FR-FCM-ZZ5M,Ly49I/U
+FR-FCM-ZZ5M,H-2k
+FR-FCM-ZZ5M,MHC
+FR-FCM-ZZ5M,NKC
+FR-FCM-ZZ5M,NKp46
+FR-FCM-ZZ5M,NCR
+FR-FCM-ZZ5M,14B11
+FR-FCM-ZZ5M,4D11
+FR-FCM-ZZ5N,Ly49G2
+FR-FCM-ZZ5N,Ly49I/U
+FR-FCM-ZZ5N,H-2k
+FR-FCM-ZZ5N,MHC
+FR-FCM-ZZ5N,NKC
+FR-FCM-ZZ5N,NKp46
+FR-FCM-ZZ5N,NCR
+FR-FCM-ZZ5N,14B11
+FR-FCM-ZZ5N,4D11
+FR-FCM-ZZ5N,MCMV
+FR-FCM-ZZ5X,Ly49G2
+FR-FCM-ZZ5X,Ly49I/U
+FR-FCM-ZZ5X,H-2k
+FR-FCM-ZZ5X,MHC
+FR-FCM-ZZ5X,NKC
+FR-FCM-ZZ5X,NKp46
+FR-FCM-ZZ5X,NCR
+FR-FCM-ZZ5X,14B11
+FR-FCM-ZZ5X,4D11
+FR-FCM-ZZ5P,Ly49G2
+FR-FCM-ZZ5P,Ly49I/U
+FR-FCM-ZZ5P,H-2k
+FR-FCM-ZZ5P,MHC
+FR-FCM-ZZ5P,NKC
+FR-FCM-ZZ5P,NKp46
+FR-FCM-ZZ5P,NCR
+FR-FCM-ZZ5P,14B11
+FR-FCM-ZZ5P,4D11
+FR-FCM-ZZ5P,MCMV
+FR-FCM-ZZ5R,Ly49G2
+FR-FCM-ZZ5R,Ly49I/U
+FR-FCM-ZZ5R,H-2k
+FR-FCM-ZZ5R,MHC
+FR-FCM-ZZ5R,NKC
+FR-FCM-ZZ5R,NKp46
+FR-FCM-ZZ5R,NCR
+FR-FCM-ZZ5R,14B11
+FR-FCM-ZZ5R,4D11
+FR-FCM-ZZ5R,MCMV
+FR-FCM-ZZ5S,Ly49G2
+FR-FCM-ZZ5S,Ly49I/U
+FR-FCM-ZZ5S,H-2k
+FR-FCM-ZZ5S,MHC
+FR-FCM-ZZ5S,NKC
+FR-FCM-ZZ5S,NKp46
+FR-FCM-ZZ5S,NCR
+FR-FCM-ZZ5S,14B11
+FR-FCM-ZZ5S,4D11
+FR-FCM-ZZ5T,Astrocytes
+FR-FCM-ZZ5T,liposomes. myelin-lipids
+FR-FCM-ZZ5T,CNS inflammation
+FR-FCM-ZZ5U,liposomes
+FR-FCM-ZZ5U,Astrocytes
+FR-FCM-ZZ5U,HLA
+FR-FCM-ZZ5V,Astrocytes
+FR-FCM-ZZ5V,trypanosoma cruzi
+FR-FCM-ZZ5V,HLA I
+FR-FCM-ZZ5V,HLA II
+FR-FCM-ZZ64,phycoerythrin; non-specific binding; plasma cells; intracellular staining
+FR-FCM-ZZ65,FACS
+FR-FCM-ZZ65,reporter
+FR-FCM-ZZ65,sort
+FR-FCM-ZZ65,high producer cells
+FR-FCM-ZZ68,HIV
+FR-FCM-ZZ68,flow cytometry
+FR-FCM-ZZ68,Cell-cell fusion
+FR-FCM-ZZ68,syncytia
+FR-FCM-ZZ68,absolute cell counting
+FR-FCM-ZZ69,HIV
+FR-FCM-ZZ69,flow cytometry
+FR-FCM-ZZ69,cell cycle
+FR-FCM-ZZ69,Cell-cell fusion
+FR-FCM-ZZ69,syncytia
+FR-FCM-ZZ69,absolute cell counting
+FR-FCM-ZZ6B,diffuse large B-cell lymphoma
+FR-FCM-ZZ6B,hyperplasia
+FR-FCM-ZZ6B,follicular lymphoma
+FR-FCM-ZZ6D,Biodiesel crop; Flow Cytometry; Internal standardization; PI intercalation; Pongamia pinnata; Nuclear DNA content
+FR-FCM-ZZ6E,Biodiesel crop; Flow Cytometry; Internal standardization; PI intercalation; Pongamia pinnata; Nuclear DNA content
+FR-FCM-ZZ6W,flow cytometry
+FR-FCM-ZZ6W,fluorescence
+FR-FCM-ZZ6W,membrane integrity
+FR-FCM-ZZ6W,light scattering
+FR-FCM-ZZ6W,cryopreservation
+FR-FCM-ZZ6W,cryobiology
+FR-FCM-ZZ6W,cell gating
+FR-FCM-ZZ6W,mitochondria
+FR-FCM-ZZ6W,mitochondrial membrane potential
+FR-FCM-ZZ6W,human umbilical vein endothelial cells (HUVEC)
+FR-FCM-ZZ6K,flow cytometry
+FR-FCM-ZZ6K,lymphocyte subsets
+FR-FCM-ZZ6K,reference ranges
+FR-FCM-ZZ6K,Oman
+FR-FCM-ZZ6K,CD3+CD4+
+FR-FCM-ZZ6K,CD3+CD8+
+FR-FCM-ZZ6L,hematopoietic stem cells
+FR-FCM-ZZ6L,ICS; standardization; reproducibility; positivity threshold; F-score; automated analysis
+FR-FCM-ZZ6L,Rare event
+FR-FCM-ZZ6R,GFP YFP
+FR-FCM-ZZ72,C11-BODIPY581/591; oxidative stress; lipid peroxidation; green algae; Chlamydomonas reinhardtii;
+FR-FCM-ZZ75,C11-BODIPY581/591; oxidative stress; lipid peroxidation; green algae; Chlamydomonas reinhardtii; Copper; Mercury; DDC; diuron
+FR-FCM-ZZ7L,Plants
+FR-FCM-ZZ7L,endoreduplication
+FR-FCM-ZZ7L,C-value
+FR-FCM-ZZ7N,Bacteria; E. coli; Cyanobacteria; Kinetic flow cytometry; real-time flow cytometry; algae
+FR-FCM-ZZ7P,Immunophenotyping
+FR-FCM-ZZ7P,flow cytometry; data analysis; statistical analysis; normalization
+FR-FCM-ZZ7P,healthy controls
+FR-FCM-ZZ7S,flow cytometry
+FR-FCM-ZZ7S,Fluorescent proteins
+FR-FCM-ZZ7S,Genetic barcoding
+FR-FCM-ZZ7S,Retroviral technology
+FR-FCM-ZZ7S,Multiplexing
+FR-FCM-ZZ7S,high throughput capabilities
+FR-FCM-ZZ7T,flow cytometry
+FR-FCM-ZZ7T,Fluorescent proteins
+FR-FCM-ZZ7T,Genetic barcoding
+FR-FCM-ZZ7T,Retroviral technology
+FR-FCM-ZZ7T,Multiplexing
+FR-FCM-ZZ7T,high throughput capabilities
+FR-FCM-ZZ7U,Intracellular cytokines; T cells; HIV; SIV; vaccines
+FR-FCM-ZZ7V,flow cytometry
+FR-FCM-ZZ7V,Fluorescent proteins
+FR-FCM-ZZ7V,Genetic barcoding
+FR-FCM-ZZ7V,Retroviral technology
+FR-FCM-ZZ7V,Multiplexing
+FR-FCM-ZZ7V,high throughput capabilities
+FR-FCM-ZZ7V,cell based assay
+FR-FCM-ZZ8Z,flow cytometry
+FR-FCM-ZZ8Z,autoimmune hemolytic anemia
+FR-FCM-ZZ8Z,erythrocytes
+FR-FCM-ZZ8Z,immune complexes
+FR-FCM-ZZ85,cystic fibrosis CFTR monocytes blocking peptide CD14
+FR-FCM-ZZ88,flow cytometry
+FR-FCM-ZZ88,genome size
+FR-FCM-ZZ88,buffer
+FR-FCM-ZZ88,fungi
+FR-FCM-ZZ88,confocal microscopy
+FR-FCM-ZZ88,RNAse
+FR-FCM-ZZ88,fixation
+FR-FCM-ZZ88,standard
+FR-FCM-ZZ8F,Clustering
+FR-FCM-ZZ8F,Human Mouse
+FR-FCM-ZZ8F,SWIFT
+FR-FCM-ZZ8F,Ground truth
+FR-FCM-ZZ93,Activation markers
+FR-FCM-ZZ93,basophils
+FR-FCM-ZZ93,allergy
+FR-FCM-ZZ9H,T-cells
+FR-FCM-ZZ9H,Innate-like T-cell
+FR-FCM-ZZ9H,MAIT cell
+FR-FCM-ZZ9H,NKT cell
+FR-FCM-ZZ9H,gammadelta T-cell
+FR-FCM-ZZ9P,flow cytometry
+FR-FCM-ZZ9P,fixation
+FR-FCM-ZZ9P,EYFP
+FR-FCM-ZZ9P,RFP
+FR-FCM-ZZ9P,EGFP
+FR-FCM-ZZ9P,FoxP3
+FR-FCM-ZZ9P,RORγt
+FR-FCM-ZZ9P,T-bet
+FR-FCM-ZZ9P,fate mapping
+FR-FCM-ZZ9P,formaldehyde
+FR-FCM-ZZ9P,mouse T cells.
+FR-FCM-ZZ9R,flow cytometry
+FR-FCM-ZZ9R,Solid-state fermentation
+FR-FCM-ZZ9R,basidiomycetes
+FR-FCM-ZZ9R,biomass determination
+FR-FCM-ZZ9R,nuclei
+FR-FCM-ZZ9V,monocyte
+FR-FCM-ZZ9V,CD14
+FR-FCM-ZZ9V,Blood
+FR-FCM-ZZ9V,leukocyte
+FR-FCM-ZZ9V,lymphocyte
+FR-FCM-ZZ9V,granulocyte
+FR-FCM-ZZ9V,monocyte subpopulations
+FR-FCM-ZZ9V,CD16
+FR-FCM-ZZ9V,LRP1
+FR-FCM-ZZ9V,atherosclerosis.
+FR-FCM-ZZAZ,Intracellular Cytokine Staining
+FR-FCM-ZZAZ,ICS
+FR-FCM-ZZAZ,CMV
+FR-FCM-ZZAZ,OMIP
+FR-FCM-ZZAZ,tuberculosis
+FR-FCM-ZZAZ,T cell memory
+FR-FCM-ZZA3,flow cytometry
+FR-FCM-ZZA3,meiotic prophase I
+FR-FCM-ZZA3,Hoechst 33342
+FR-FCM-ZZA3,Adult mouse testes
+FR-FCM-ZZA3,cell sorting.
+FR-FCM-ZZA4,flow cytometry
+FR-FCM-ZZA4,basophils
+FR-FCM-ZZA4,Blood
+FR-FCM-ZZA4,asthma
+FR-FCM-ZZA4,bronchoalveolar lavage
+FR-FCM-ZZA4,chipcytometry
+FR-FCM-ZZA8,IL17; IL22; mouse
+FR-FCM-ZZA9,IL17; IL22; mouse; T cells
+FR-FCM-ZZAA,human
+FR-FCM-ZZAA,IL-22
+FR-FCM-ZZAA,IL-17
+FR-FCM-ZZAA,cord blood
+FR-FCM-ZZAA,polarizing conditions
+FR-FCM-ZZAD,mouse T cells
+FR-FCM-ZZAD,IL17
+FR-FCM-ZZAD,IL22
+FR-FCM-ZZAD,KYA
+FR-FCM-ZZAD,L-KYN
+FR-FCM-ZZAD,laccase
+FR-FCM-ZZAE,human
+FR-FCM-ZZAE,aorta
+FR-FCM-ZZAE,aneurysm
+FR-FCM-ZZAE,stromal cells
+FR-FCM-ZZAF,mouse T cells
+FR-FCM-ZZAF,IL-22
+FR-FCM-ZZAF,IL-17
+FR-FCM-ZZAF,CA
+FR-FCM-ZZAF,FICZ
+FR-FCM-ZZAG,FoxP3
+FR-FCM-ZZAG,mouse T cells
+FR-FCM-ZZAG,CA
+FR-FCM-ZZAG,Treg
+FR-FCM-ZZAG,TGFb
+FR-FCM-ZZAK,APOPTOSIS
+FR-FCM-ZZAL,[Pacific oyster] [crassostrea gigas] [gamete quality] [ROS production] [viability] [flow cytometry] [ecotoxicology] [Alexandrium minutum] [Harmfull algal blooms] [oocytes]
+FR-FCM-ZZAM,Treg
+FR-FCM-ZZAM,Human naive T cells
+FR-FCM-ZZAM,CFSE
+FR-FCM-ZZAM,suppression
+FR-FCM-ZZBD,human
+FR-FCM-ZZBD,IL17
+FR-FCM-ZZBD,IL22
+FR-FCM-ZZBD,adult
+FR-FCM-ZZBD,CD4 T cell
+FR-FCM-ZZBF,Innate Immune Response
+FR-FCM-ZZBF,Activation markers
+FR-FCM-ZZBF,human neutrophils
+FR-FCM-ZZBF,PD/PD-L1
+FR-FCM-ZZBF,Mycobacteria
+FR-FCM-ZZBG,IL17
+FR-FCM-ZZBG,IL22
+FR-FCM-ZZBG,human PBMCs
+FR-FCM-ZZBG,stimulated
+FR-FCM-ZZBJ,IL-22
+FR-FCM-ZZBJ,human PBMCs
+FR-FCM-ZZBJ,AHR antagonist
+FR-FCM-ZZBJ,HAA
+FR-FCM-ZZBK,human
+FR-FCM-ZZBK,IL17
+FR-FCM-ZZBK,IL22
+FR-FCM-ZZBK,HAA
+FR-FCM-ZZBK,CD4 T cells
+FR-FCM-ZZBK,IFNg
+FR-FCM-ZZBL,Mean Fluorescence Intensity (MFI)
+FR-FCM-ZZBL,Beads
+FR-FCM-ZZBL,microscopy
+FR-FCM-ZZBN,Ancestral state reconstruction
+FR-FCM-ZZBN,Mutation
+FR-FCM-ZZBN,Evolution
+FR-FCM-ZZBR,erythrocytes
+FR-FCM-ZZBR,kurtosis
+FR-FCM-ZZBR,shape
+FR-FCM-ZZBS,CD25
+FR-FCM-ZZBS,inmune innate
+FR-FCM-ZZBS,invertebrate
+FR-FCM-ZZBT,HIV
+FR-FCM-ZZBT,Gene expression
+FR-FCM-ZZBT,RNA Amplification
+FR-FCM-ZZBT,RNA hybridization
+FR-FCM-ZZBT,RNA Flow cytometry
+FR-FCM-ZZC4,Gene expression
+FR-FCM-ZZC4,RNA Amplification
+FR-FCM-ZZC4,RNA hybridization
+FR-FCM-ZZC4,RNA Flow cytometry
+FR-FCM-ZZC7,monocyte
+FR-FCM-ZZC7,PBMC
+FR-FCM-ZZC7,CD4
+FR-FCM-ZZC7,Gene expression
+FR-FCM-ZZC7,RNA Flow cytometry
+FR-FCM-ZZC8,PBMC
+FR-FCM-ZZC8,CD4
+FR-FCM-ZZC8,Gene expression
+FR-FCM-ZZC8,stimulated
+FR-FCM-ZZC8,RNA Flow cytometry
+FR-FCM-ZZC9,PBMC
+FR-FCM-ZZC9,CD4
+FR-FCM-ZZC9,Gene expression
+FR-FCM-ZZC9,RNA Flow cytometry
+FR-FCM-ZZCA,CD44
+FR-FCM-ZZCA,monocyte
+FR-FCM-ZZCA,PBMC
+FR-FCM-ZZCA,Gene expression
+FR-FCM-ZZCA,RNA Flow cytometry
+FR-FCM-ZZCB,PBMC
+FR-FCM-ZZCB,Gene expression
+FR-FCM-ZZCB,RNA Flow cytometry
+FR-FCM-ZZCC,Gene expression
+FR-FCM-ZZCC,RNA Amplification
+FR-FCM-ZZCC,RNA hybridization
+FR-FCM-ZZCC,RNA Flow cytometry
+FR-FCM-ZZCD,Gene expression
+FR-FCM-ZZCD,RNA Amplification
+FR-FCM-ZZCD,RNA hybridization
+FR-FCM-ZZCD,RNA Flow cytometry
+FR-FCM-ZZCE,Gene expression
+FR-FCM-ZZCE,RNA Amplification
+FR-FCM-ZZCE,RNA hybridization
+FR-FCM-ZZCE,RNA Flow cytometry
+FR-FCM-ZZCF,Gene expression
+FR-FCM-ZZCF,RNA Amplification
+FR-FCM-ZZCF,RNA hybridization
+FR-FCM-ZZCF,RNA Flow cytometry
+FR-FCM-ZZD7,human
+FR-FCM-ZZD7,CD4 T cell
+FR-FCM-ZZD7,Streptococcus pneumoniae
+FR-FCM-ZZD7,IL-17A
+FR-FCM-ZZD7,alveolar macrophage
+FR-FCM-ZZD7,Lung cells
+FR-FCM-ZZD7,Vaccine
+FR-FCM-ZZD7,experimental human pneumococcal carriage
+FR-FCM-ZZD7,BAL
+FR-FCM-ZZD7,TNF
+FR-FCM-ZZD7,IL-17RA
+FR-FCM-ZZD7,IL-17RC
+FR-FCM-ZZD7,phagocytosis
+FR-FCM-ZZD7,serotype 6B
+FR-FCM-ZZD7,intra-cellular cytokine staining
+FR-FCM-ZZD7,IFNgamma
+FR-FCM-ZZD7,Influenza
+FR-FCM-ZZD8,yeast; cell cycle; size control
+FR-FCM-ZZD9,cell cycle
+FR-FCM-ZZD9,budding yeast
+FR-FCM-ZZDA,yeast; cell cycle; size control
+FR-FCM-ZZDB,yeast; cell cycle; size control
+FR-FCM-ZZDE,CD4
+FR-FCM-ZZDE,Cytokine secretion assay
+FR-FCM-ZZDE,IL-2
+FR-FCM-ZZDK,Acute Myeloid Leukemia
+FR-FCM-ZZDK,multicolor flow cytometry
+FR-FCM-ZZDK,signaling
+FR-FCM-ZZDX,CD4
+FR-FCM-ZZDX,IL-2
+FR-FCM-ZZDX,Cyotkine secretion assay
+FR-FCM-ZZDP,CD4
+FR-FCM-ZZDP,Cytokine secretion assay
+FR-FCM-ZZDP,IL-2
+FR-FCM-ZZDQ,lymphocyte subsets
+FR-FCM-ZZDQ,reference values
+FR-FCM-ZZDQ,pediatric population
+FR-FCM-ZZDQ,primary immunodeficiencies.
+FR-FCM-ZZDR,flow cytometry
+FR-FCM-ZZDR,Rhabdomyosarcoma
+FR-FCM-ZZDR,PAX3
+FR-FCM-ZZDR,minimal residual disease
+FR-FCM-ZZDR,soft tissue sarcomas
+FR-FCM-ZZDR,pediatric cancer.
+FR-FCM-ZZDS,flow cytometry
+FR-FCM-ZZDS,Rhabdomyosarcoma
+FR-FCM-ZZDS,PAX3
+FR-FCM-ZZDS,minimal residual disease
+FR-FCM-ZZDS,soft tissue sarcomas
+FR-FCM-ZZDS,pediatric cancer
+FR-FCM-ZZEB,B cells
+FR-FCM-ZZEB,NK cells
+FR-FCM-ZZEB,monocytes
+FR-FCM-ZZEB,Phenotyping
+FR-FCM-ZZEB,human PBMC
+FR-FCM-ZZEB,T cells
+FR-FCM-ZZEB,γδ T cells
+FR-FCM-ZZEB,activation
+FR-FCM-ZZEB,differentiation
+FR-FCM-ZZEC,Intracellular Cytokine Staining
+FR-FCM-ZZEC,NK cells
+FR-FCM-ZZEC,human PBMC
+FR-FCM-ZZEC,T cells
+FR-FCM-ZZEC,TFH cells
+FR-FCM-ZZEC,memory
+FR-FCM-ZZED,CyTOF; mass cytometry; flow cytometry; standardization; immune-monitoring; mouse
+FR-FCM-ZZEK,Pseudomonas putida
+FR-FCM-ZZEK,DNA content
+FR-FCM-ZZEK,DAPI
+FR-FCM-ZZEL,histamine H4 receptor
+FR-FCM-ZZEL,BODIPY® FL Histamine
+FR-FCM-ZZEL,mast cells
+FR-FCM-ZZEM,cryopreservation
+FR-FCM-ZZEM,multimer comparison
+FR-FCM-ZZEM,quality assurance
+FR-FCM-ZZEM,MHC multimer
+FR-FCM-ZZEM,Cryoprotectant
+FR-FCM-ZZEM,Glycerol in T cell staining
+FR-FCM-ZZEN,BDL
+FR-FCM-ZZEN,clodronate
+FR-FCM-ZZEU,GFP
+FR-FCM-ZZEU,leukocyte
+FR-FCM-ZZEU,Adult mouse
+FR-FCM-ZZEU,bronchoalveolar lavage
+FR-FCM-ZZF2,nanoparticle
+FR-FCM-ZZF2,normal cells
+FR-FCM-ZZF2,multidimension data
+FR-FCM-ZZG3,flow cytometry
+FR-FCM-ZZG3,episome
+FR-FCM-ZZG3,expression kinetics
+FR-FCM-ZZG3,integration-deficient
+FR-FCM-ZZG3,proliferation rate
+FR-FCM-ZZG3,protein half-life
+FR-FCM-ZZG3,retroviral vector
+FR-FCM-ZZG3,transient gene expression
+FR-FCM-ZZG4,Notch
+FR-FCM-ZZG4,differentiation
+FR-FCM-ZZG4,leukemic cell
+FR-FCM-ZZG4,ATRA
+FR-FCM-ZZG4,PMA
+FR-FCM-ZZG6,data analysis
+FR-FCM-ZZG6,gate setting
+FR-FCM-ZZG6,2D-histogram evaluation
+FR-FCM-ZZG6,microbial communities
+FR-FCM-ZZG8,multi-parametric flow cytometry
+FR-FCM-ZZG8,automated analysis
+FR-FCM-ZZG8,population annotation with heatmaps
+FR-FCM-ZZGB,microbiome resource management
+FR-FCM-ZZGB,bioelectrochemical system
+FR-FCM-ZZGB,biogas
+FR-FCM-ZZGB,anaerobic digestion
+FR-FCM-ZZGB,microbial community
+FR-FCM-ZZGB,mixed culture biotechnology
+FR-FCM-ZZGC,automated gating
+FR-FCM-ZZGC,T cell
+FR-FCM-ZZGC,lymphocyte subsets
+FR-FCM-ZZGM,microparticles
+FR-FCM-ZZGM,Standardization
+FR-FCM-ZZGM,FSC
+FR-FCM-ZZGM,SSC
+FR-FCM-ZZGM,Megamix
+FR-FCM-ZZGM,inter platform reproducibility
+FR-FCM-ZZGN,liposomes
+FR-FCM-ZZGN,vesicles
+FR-FCM-ZZGN,di-8-ANEPPS
+FR-FCM-ZZGX,Extracellular vesicles
+FR-FCM-ZZGX,microvesicles
+FR-FCM-ZZGX,micropartices
+FR-FCM-ZZGX,rat
+FR-FCM-ZZGX,platelets
+FR-FCM-ZZGX,platelet-rich plasma
+FR-FCM-ZZGX,PRP
+FR-FCM-ZZGR,FRET
+FR-FCM-ZZGR,biosensor
+FR-FCM-ZZGR,HEK293T
+FR-FCM-ZZGR,fluorescence lifetime
+FR-FCM-ZZGR,FRET standard
+FR-FCM-ZZGS,Clustering
+FR-FCM-ZZGS,SWIFT
+FR-FCM-ZZGS,Young
+FR-FCM-ZZGS,Elderly
+FR-FCM-ZZGS,Old
+FR-FCM-ZZGS,Template
+FR-FCM-ZZGS,Competition
+FR-FCM-ZZGT,gold nanoparticles
+FR-FCM-ZZGT,cancer cells
+FR-FCM-ZZGT,static magnetic field
+FR-FCM-ZZGT,multidimensional clustering
+FR-FCM-ZZGU,cancer cells
+FR-FCM-ZZGU,iron oxide nanoparticles
+FR-FCM-ZZGU,static magneti field
+FR-FCM-ZZGU,statistical clustering
+FR-FCM-ZZWB,MACS
+FR-FCM-ZZWB,depletion
+FR-FCM-ZZWB,microbeads
+FR-FCM-ZZWC,mass cytometry
+FR-FCM-ZZWC,CyTOF
+FR-FCM-ZZWC,immunoclust
+FR-FCM-ZZWG,fluorescence
+FR-FCM-ZZWG,fIbroblast
+FR-FCM-ZZWG,Conjugated polyelectrolyte
+FR-FCM-ZZWG,luminescent conjugated polythiophene
+FR-FCM-ZZWG,melanoma
+FR-FCM-ZZWM,flow cytometry
+FR-FCM-ZZWM,Adhesion molecule
+FR-FCM-ZZWM,Brain microvascular endothelium
+FR-FCM-ZZWM,Leukocyte-Endothelial cell interaction
+FR-FCM-ZZWM,Adhesion
+FR-FCM-ZZWX,CRISPR
+FR-FCM-ZZWX,zebrafish
+FR-FCM-ZZWX,urod
+FR-FCM-ZZWU,human
+FR-FCM-ZZWU,CD4+ T cells
+FR-FCM-ZZWU,PBMCs
+FR-FCM-ZZWU,T helper
+FR-FCM-ZZWU,T cell subsets
+FR-FCM-ZZWU,mNKT/MAIT cells
+FR-FCM-ZZJ5,flow cytometry
+FR-FCM-ZZJ5,Immunophenotyping
+FR-FCM-ZZJ5,Beads
+FR-FCM-ZZJ5,Compensation
+FR-FCM-ZZJ5,Polystyrene Microspheres
+FR-FCM-ZZJ5,Polychromatic
+FR-FCM-ZZJ5,Leukocytes
+FR-FCM-ZZJ6,Mesechymal stem cell
+FR-FCM-ZZJ6,Organ Culture
+FR-FCM-ZZJ6,High content imaging
+FR-FCM-ZZJ7,GvHD
+FR-FCM-ZZJ7,DAPI
+FR-FCM-ZZJ7,FlowRepositoryR
+FR-FCM-ZZJB,fertilization
+FR-FCM-ZZJB,mating
+FR-FCM-ZZJB,bi-molecular complementation
+FR-FCM-ZZJB,Saccharomyces cerevisiae
+FR-FCM-ZZJH,fertilization
+FR-FCM-ZZJH,mating
+FR-FCM-ZZJH,bi-molecular complementation
+FR-FCM-ZZJH,Saccharomyces cerevisiae
+FR-FCM-ZZJL,fertilization
+FR-FCM-ZZJL,mating
+FR-FCM-ZZJL,bi-molecular complementation
+FR-FCM-ZZJL,Saccharomyces cerevisiae
+FR-FCM-ZZJM,fertilization
+FR-FCM-ZZJM,mating
+FR-FCM-ZZJM,bi-molecular complementation
+FR-FCM-ZZJM,Saccharomyces cerevisiae
+FR-FCM-ZZJN,fertilization
+FR-FCM-ZZJN,mating
+FR-FCM-ZZJN,bi-molecular complementation
+FR-FCM-ZZJN,Saccharomyces cerevisiae
+FR-FCM-ZZJX,fertilization
+FR-FCM-ZZJX,mating
+FR-FCM-ZZJX,bi-molecular complementation
+FR-FCM-ZZJX,Saccharomyces cerevisiae
+FR-FCM-ZZJP,fertilization
+FR-FCM-ZZJP,mating
+FR-FCM-ZZJP,bi-molecular complementation
+FR-FCM-ZZJP,Saccharomyces cerevisiae
+FR-FCM-ZZJR,fertilization
+FR-FCM-ZZJR,mating
+FR-FCM-ZZJR,bi-molecular complementation
+FR-FCM-ZZJR,Saccharomyces cerevisiae
+FR-FCM-ZZJS,fertilization
+FR-FCM-ZZJS,mating
+FR-FCM-ZZJS,bi-molecular complementation
+FR-FCM-ZZJS,Saccharomyces cerevisiae
+FR-FCM-ZZJT,fertilization
+FR-FCM-ZZJT,mating
+FR-FCM-ZZJT,bi-molecular complementation
+FR-FCM-ZZJT,Saccharomyces cerevisiae
+FR-FCM-ZZKZ,mass cytometry
+FR-FCM-ZZKZ,machine learning
+FR-FCM-ZZKZ,computational biology
+FR-FCM-ZZKZ,viSNE
+FR-FCM-ZZKZ,SPADE
+FR-FCM-ZZKZ,heatmaps
+FR-FCM-ZZK3,ice-shelf
+FR-FCM-ZZK3,biogeochemistry
+FR-FCM-ZZK3,McMurdo Ice Shelf
+FR-FCM-ZZK3,Ross Ice Shelf
+FR-FCM-ZZK3,Southern Ocean
+FR-FCM-ZZK3,Antarctica
+FR-FCM-ZZK4,NK cells
+FR-FCM-ZZK4,KIR3DL05
+FR-FCM-ZZK4,KIR3DL01
+FR-FCM-ZZK4,Rhesus macaque
+FR-FCM-ZZK9,Arthritis
+FR-FCM-ZZK9,cell surface markers
+FR-FCM-ZZK9,protoporphyrin IX
+FR-FCM-ZZK9,synovial mesenchymal stem cells
+FR-FCM-ZZKA,Ground truth
+FR-FCM-ZZKA,simulated data
+FR-FCM-ZZKH,flow cytometry
+FR-FCM-ZZKH,MHC multimer
+FR-FCM-ZZKH,CD8 T cells
+FR-FCM-ZZKH,HLA-B molecules
+FR-FCM-ZZKH,conditional ligands
+FR-FCM-ZZLY,bradykinin
+FR-FCM-ZZLY,Neural Progenitor Cells
+FR-FCM-ZZLY,Neurogenesis
+FR-FCM-ZZLY,and Proliferation.
+FR-FCM-ZZL3,Embryonic stem cells
+FR-FCM-ZZL3,Undifferentiated cell marker
+FR-FCM-ZZL3,bradykinin
+FR-FCM-ZZL3,neural differentiation
+FR-FCM-ZZLF,flow cytometry
+FR-FCM-ZZLF,Titration
+FR-FCM-ZZLF,Chlamydia suis
+FR-FCM-ZZLF,Hep2
+FR-FCM-ZZLG,FACS
+FR-FCM-ZZLG,confocal microscopy
+FR-FCM-ZZLG,Chlamydia suis
+FR-FCM-ZZLG,Hep2
+FR-FCM-ZZLG,cytospin
+FR-FCM-ZZLH,T cells
+FR-FCM-ZZLH,scleroderma
+FR-FCM-ZZLH,immune response
+FR-FCM-ZZLP,mass cytometry
+FR-FCM-ZZLP,CyTOF
+FR-FCM-ZZLP,platinum
+FR-FCM-ZZLV,flow cytometry
+FR-FCM-ZZLV,data analysis
+FR-FCM-ZZLV,R
+FR-FCM-ZZMY,DNA ploidy
+FR-FCM-ZZMY,FxCycle Violet
+FR-FCM-ZZMY,surface immunophenotyping
+FR-FCM-ZZM3,Rare event
+FR-FCM-ZZM3,FxCycle Violet
+FR-FCM-ZZM3,Simultaneous six color surface staining & DNA ploidy
+FR-FCM-ZZM4,Simultaneous six color surface staining & DNA ploidy
+FR-FCM-ZZM4,B-ALL
+FR-FCM-ZZM4,MRD
+FR-FCM-ZZM5,FxCycle Violet
+FR-FCM-ZZM5,Simultaneous six color surface staining & DNA ploidy
+FR-FCM-ZZM5,Intra-assay variation
+FR-FCM-ZZM8,FxCycle Violet
+FR-FCM-ZZM8,Simultaneous six color surface staining & DNA ploidy
+FR-FCM-ZZM8,multiple myeloma
+FR-FCM-ZZMC,mass cytometry
+FR-FCM-ZZMC,AML
+FR-FCM-ZZMW,Sperm
+FR-FCM-ZZMW,zebrafish
+FR-FCM-ZZMW,Concentration
+FR-FCM-ZZMJ,CD200
+FR-FCM-ZZMJ,CD200R
+FR-FCM-ZZMJ,Mincle
+FR-FCM-ZZML,Monocyte subpopulation
+FR-FCM-ZZML,acute exercise
+FR-FCM-ZZML,metabolic syndrome
+FR-FCM-ZZMX,Extracellular vesicles
+FR-FCM-ZZMX,exosome
+FR-FCM-ZZMX,microvesicle
+FR-FCM-ZZMX,microparticle
+FR-FCM-ZZMX,liposome
+FR-FCM-ZZNA,microbial communities
+FR-FCM-ZZNA,microbiome resource management
+FR-FCM-ZZNA,microbiology
+FR-FCM-ZZNV,human PBMCs
+FR-FCM-ZZNV,visualiztion
+FR-FCM-ZZNV,peripheral blood profiling kit (fluidigm)
+FR-FCM-ZZXY,Population Identification
+FR-FCM-ZZXY,hematopoietic stem cells
+FR-FCM-ZZXY,Immunophenotyping
+FR-FCM-ZZX2,Population Identification
+FR-FCM-ZZX2,hematopoietic stem cells
+FR-FCM-ZZX4,Beads
+FR-FCM-ZZX4,LED pulse
+FR-FCM-ZZX4,multispectral
+FR-FCM-ZZX4,Q
+FR-FCM-ZZX4,B
+FR-FCM-ZZX6,monocytes
+FR-FCM-ZZX6,macrophage polarization
+FR-FCM-ZZX6,dexamethasone
+FR-FCM-ZZX7,monocytes
+FR-FCM-ZZX7,macrophage polarization
+FR-FCM-ZZX7,dexamethasone
+FR-FCM-ZZX8,FLOW-FISH
+FR-FCM-ZZX8,telomere
+FR-FCM-ZZX9,KIR3DL05
+FR-FCM-ZZX9,KIR3DL01
+FR-FCM-ZZX9,Rhesus macaque
+FR-FCM-ZZX9,NK cell functions
+FR-FCM-ZZP6,flow cytometry
+FR-FCM-ZZP6,microbial communities
+FR-FCM-ZZP6,Microbiota
+FR-FCM-ZZP6,colitis
+FR-FCM-ZZP8,flow cytometry
+FR-FCM-ZZP8,microbial communities
+FR-FCM-ZZP8,Microbiota
+FR-FCM-ZZPA,Yeast
+FR-FCM-ZZPA,galactose
+FR-FCM-ZZPA,GAL
+FR-FCM-ZZPA,dynamic gene expression
+FR-FCM-ZZPA,GFP reporter
+FR-FCM-ZZPA,DOT6
+FR-FCM-ZZPB,1001genomes
+FR-FCM-ZZPB,AFB
+FR-FCM-ZZPB,TIR1
+FR-FCM-ZZPB,AFB2
+FR-FCM-ZZPB,natural variation
+FR-FCM-ZZPB,steady state
+FR-FCM-ZZPC,iPSC-derived Neural Stem/Progenitor cells
+FR-FCM-ZZQ7,HEK293 cells
+FR-FCM-ZZQ7,WGA
+FR-FCM-ZZQ7,wheat germ agglutinin
+FR-FCM-ZZQ8,WGA
+FR-FCM-ZZQ8,wheat germ agglutinin
+FR-FCM-ZZQ8,U87
+FR-FCM-ZZQ8,cell size
+FR-FCM-ZZQ9,human PBMC
+FR-FCM-ZZQ9,WGA
+FR-FCM-ZZQ9,wheat germ agglutinin
+FR-FCM-ZZQ9,cell size
+FR-FCM-ZZQA,whole blood
+FR-FCM-ZZQA,CyTOF
+FR-FCM-ZZQA,WGA
+FR-FCM-ZZQA,wheat germ agglutinin
+FR-FCM-ZZQA,cell size
+FR-FCM-ZZQB,whole blood
+FR-FCM-ZZQB,CyTOF
+FR-FCM-ZZQB,WGA
+FR-FCM-ZZQB,wheat germ agglutinin
+FR-FCM-ZZQB,cell size
+FR-FCM-ZZQC,whole blood
+FR-FCM-ZZQC,CyTOF
+FR-FCM-ZZQC,WGA
+FR-FCM-ZZQC,wheat germ agglutinin
+FR-FCM-ZZQC,cell siz
+FR-FCM-ZZQM,reporter
+FR-FCM-ZZQM,Fluorescent proteins
+FR-FCM-ZZQM,EGFP
+FR-FCM-ZZQM,plasmid
+FR-FCM-ZZQM,plasmid copy number
+FR-FCM-ZZQM,Heterologous expression
+FR-FCM-ZZQM,Escherichia coli
+FR-FCM-ZZQM,replication system
+FR-FCM-ZZQX,DAPI
+FR-FCM-ZZQX,WWTP
+FR-FCM-ZZQX,metacommunity
+FR-FCM-ZZQX,primary clarifier
+FR-FCM-ZZQX,primary sludge
+FR-FCM-ZZQX,aeration tank
+FR-FCM-ZZQX,excess sludge
+FR-FCM-ZZQX,anaerobic digester
+FR-FCM-ZZQX,anaerobic digester centrate
+FR-FCM-ZZQQ,whole blood
+FR-FCM-ZZQQ,mass cytometry
+FR-FCM-ZZQQ,CyTOF
+FR-FCM-ZZQQ,Leukocytes
+FR-FCM-ZZQQ,innate myeloid immunity
+FR-FCM-ZZR6,T cells
+FR-FCM-ZZR6,FRET
+FR-FCM-ZZR6,T cell activation
+FR-FCM-ZZRA,GFP
+FR-FCM-ZZRA,yEGFP3
+FR-FCM-ZZRQ,monocytes
+FR-FCM-ZZRQ,myeloid dendritic cells
+FR-FCM-ZZRQ,CD1c
+FR-FCM-ZZRS,monocyte
+FR-FCM-ZZRS,myeloid dendritic cells
+FR-FCM-ZZRS,CD1c
+FR-FCM-ZZRS,dendritic cells
+FR-FCM-ZZRT,CD14
+FR-FCM-ZZRT,monocytes
+FR-FCM-ZZRT,myeloid dendritic cells
+FR-FCM-ZZRT,CD1c
+FR-FCM-ZZRV,monocytes
+FR-FCM-ZZRV,CD4 T cells
+FR-FCM-ZZRV,dendritic cells
+FR-FCM-ZZRV,coculture
+FR-FCM-ZZRV,MLR
+FR-FCM-ZZS3,flow cytometry
+FR-FCM-ZZS3,APOPTOSIS
+FR-FCM-ZZS3,multiparametric analysis
+FR-FCM-ZZS3,DNA damage
+FR-FCM-ZZS3,proliferation
+FR-FCM-ZZS3,click chemistry
+FR-FCM-ZZS3,cancer stem cell markers
+FR-FCM-ZZSC,T cell
+FR-FCM-ZZSC,NK cells
+FR-FCM-ZZSC,OMIP
+FR-FCM-ZZSC,checkpoin inhibitors
+FR-FCM-ZZSG,flow cytometry
+FR-FCM-ZZSG,microbial communities
+FR-FCM-ZZSG,microbiology
+FR-FCM-ZZSH,flow cytometry
+FR-FCM-ZZSH,microbiology
+FR-FCM-ZZSQ,whole blood
+FR-FCM-ZZSQ,human
+FR-FCM-ZZSQ,mass cytometry
+FR-FCM-ZZSQ,CyTOF
+FR-FCM-ZZSQ,Leukocytes
+FR-FCM-ZZSQ,innate myeloid immunity
+FR-FCM-ZZSQ,macaque
+FR-FCM-ZZSR,whole blood
+FR-FCM-ZZSR,human
+FR-FCM-ZZSR,mass cytometry
+FR-FCM-ZZSR,CyTOF
+FR-FCM-ZZSR,Leukocytes
+FR-FCM-ZZSR,innate myeloid immunity
+FR-FCM-ZZSR,macaque
+FR-FCM-ZZTY,HIV
+FR-FCM-ZZTY,bronchoalveolar lavage
+FR-FCM-ZZTY,CyTOF; mass cytometry; flow cytometry; standardization
+FR-FCM-ZZTY,human immunology
+FR-FCM-ZZT8,cytosine methylation
+FR-FCM-ZZT8,DNA damage
+FR-FCM-ZZTF,B (background light level).
+FR-FCM-ZZTF,Instrument Sensitivity
+FR-FCM-ZZTF,LED pulse
+FR-FCM-ZZTF,Q and B calculation
+FR-FCM-ZZTF,multi-level beads
+FR-FCM-ZZTW,signaling
+FR-FCM-ZZTW,basophils
+FR-FCM-ZZTW,allergy
+FR-FCM-ZZTW,whole blood
+FR-FCM-ZZTW,whole blood intracellular staining
+FR-FCM-ZZTW,pediatric population
+FR-FCM-ZZTW,mass cytometry
+FR-FCM-ZZTW,CyTOF
+FR-FCM-ZZTW,CD63
+FR-FCM-ZZTW,platelet-basophil aggregates
+FR-FCM-ZZTJ,mass cytometry
+FR-FCM-ZZTJ,freezing
+FR-FCM-ZZTJ,cellular surface markers
+FR-FCM-ZZTJ,intracellular staining
+FR-FCM-ZZTK,anti-fibroblast
+FR-FCM-ZZTK,fibroblast activation protein α
+FR-FCM-ZZTK,fibroblast surface protein
+FR-FCM-ZZTK,epithelial-to-mesenchymal transition
+FR-FCM-ZZTK,cancer-associated fibroblasts
+FR-FCM-ZZTN,Imaging Flow cytometry
+FR-FCM-ZZTN,Time-lapse microscopy
+FR-FCM-ZZTN,label-free
+FR-FCM-ZZTN,dynamic phenotype
+FR-FCM-ZZTN,morphology
+FR-FCM-ZZTP,CyTOF
+FR-FCM-ZZTP,cell size
+FR-FCM-ZZTP,oso4
+FR-FCM-ZZTQ,human PBMCs
+FR-FCM-ZZTQ,CyTOF
+FR-FCM-ZZTQ,WGA
+FR-FCM-ZZTQ,cell size
+FR-FCM-ZZTQ,oso4
+FR-FCM-ZZTQ,human lung tissue
+FR-FCM-ZZTR,pFYS018
+FR-FCM-ZZTR,surface display
+FR-FCM-ZZTR,lpp-ompA
+FR-FCM-ZZTS,surface display
+FR-FCM-ZZTS,lpp-ompA
+FR-FCM-ZZTS,pFYS019
+FR-FCM-ZZTT,surface display
+FR-FCM-ZZTT,lpp-ompA
+FR-FCM-ZZTT,pFYS028
+FR-FCM-ZZU3,THP1
+FR-FCM-ZZU3,NFkB
+FR-FCM-ZZU3,nuclear localization
+FR-FCM-ZZU4,LPS
+FR-FCM-ZZU4,human PBMCs
+FR-FCM-ZZU4,TNF
+FR-FCM-ZZU4,NFkB
+FR-FCM-ZZU7,heterogeneity
+FR-FCM-ZZU7,Silver nanoparticles
+FR-FCM-ZZU7,silver ions
+FR-FCM-ZZU7,microbial flow cytometry
+FR-FCM-ZZU7,toxicity of silver nanoparticles on bacteria
+FR-FCM-ZZUB,PBMC
+FR-FCM-ZZUB,LPS
+FR-FCM-ZZUB,TNF
+FR-FCM-ZZUB,NFkB
+FR-FCM-ZZUC,cell cycle
+FR-FCM-ZZUC,DNA damage
+FR-FCM-ZZUC,BRCA1
+FR-FCM-ZZUR,Babesia
+FR-FCM-ZZUR,FACSDiva
+FR-FCM-ZZUR,Vybrant®DyeCycle Green dye
+FR-FCM-ZZUS,monocyte
+FR-FCM-ZZUS,TNF
+FR-FCM-ZZUS,NFkB
+FR-FCM-ZZUT,PBMC
+FR-FCM-ZZUT,monocytes
+FR-FCM-ZZUT,mitochondria
+FR-FCM-ZZUT,Lymphocytes
+FR-FCM-ZZUU,human PBMCs
+FR-FCM-ZZUU,PMA
+FR-FCM-ZZUU,ionomycin
+FR-FCM-ZZUU,NFAT
+FR-FCM-ZZUV,PBMC
+FR-FCM-ZZUV,PMA
+FR-FCM-ZZUV,ionomycin
+FR-FCM-ZZUV,NFAT
+FR-FCM-ZZVZ,SYBR Green I
+FR-FCM-ZZVZ,Babesia
+FR-FCM-ZZVZ,Vybrant®DyeCycleTMGreen dye
+FR-FCM-ZZVZ,FACSDiva
+FR-FCM-ZZVY,PBMCs
+FR-FCM-ZZVY,NFkB
+FR-FCM-ZZVY,IkBa
+FR-FCM-ZZVY,Proximity Ligation Assay
+FR-FCM-ZZV2,DNA damage
+FR-FCM-ZZV2,BRCA1
+FR-FCM-ZZV2,pH2AX
+FR-FCM-ZZV2,ionizing
+FR-FCM-ZZV4,DNA damage
+FR-FCM-ZZV4,BRCA1
+FR-FCM-ZZV4,Proximity Ligation Assay
+FR-FCM-ZZV4,pH2AX
+FR-FCM-ZZV6,DNA damage
+FR-FCM-ZZV6,BRCA1
+FR-FCM-ZZV6,Proximity Ligation Assay
+FR-FCM-ZZV6,pH2AX
+FR-FCM-ZZV7,DNA damage
+FR-FCM-ZZV7,BRCA1
+FR-FCM-ZZV7,Proximity Ligation Assay
+FR-FCM-ZZV7,pH2AX
+FR-FCM-ZZVD,Babesia
+FR-FCM-ZZVD,FACSDiva
+FR-FCM-ZZVD,Vybrant®DyeCycle Green dye
+FR-FCM-ZZVD,ALLN
+FR-FCM-ZZVE,Babesia
+FR-FCM-ZZVE,FACSDiva
+FR-FCM-ZZVE,ALLN
+FR-FCM-ZZVE,Vybrant DyeCycle Green dye
+FR-FCM-ZZVF,Babesia
+FR-FCM-ZZVF,FACSDiva
+FR-FCM-ZZVF,ALLN
+FR-FCM-ZZVF,Vybrant DyeCycle Green dye
+FR-FCM-ZZVG,Babesia
+FR-FCM-ZZVG,FACSDiva
+FR-FCM-ZZVG,Vybrant DyeCycle Green dye
+FR-FCM-ZZVG,neuraminidase
+FR-FCM-ZZVH,Babesia
+FR-FCM-ZZVH,FACSDiva
+FR-FCM-ZZVH,Vybrant DyeCycle Green dye
+FR-FCM-ZZVH,EGTA
+FR-FCM-ZZVH,egress
+FR-FCM-ZZVL,CD45 isoforms
+FR-FCM-ZZVL,PAG KO mice
+FR-FCM-ZZVR,c-Cbl Cbl-b DKO mice
+FR-FCM-ZZVR,naive and effector/memory CD4+ T cells
+FR-FCM-ZZVU,B cells
+FR-FCM-ZZVU,follicular lymphoma
+FR-FCM-ZZVU,mass cytometry
+FR-FCM-ZZVU,CyTOF
+FR-FCM-ZZVU,viSNE
+FR-FCM-ZYZA,Bacteria
+FR-FCM-ZYZA,bacterioplankton
+FR-FCM-ZYZA,microbial com
+FR-FCM-ZYZE,macrophage
+FR-FCM-ZYZG,proliferation
+FR-FCM-ZYZG,macrophage
+FR-FCM-ZYZG,frog
+FR-FCM-ZYZG,Xenopus
+FR-FCM-ZYZG,self-renewal
+FR-FCM-ZYZN,Bacteria
+FR-FCM-ZYZN,microbial community
+FR-FCM-ZYZN,bacterioplankton
+FR-FCM-ZYZX,mass cytometry
+FR-FCM-ZYZX,CyTOF
+FR-FCM-ZYZX,innate immunity
+FR-FCM-ZYZX,tSNE
+FR-FCM-ZYY6,CMV
+FR-FCM-ZYY6,NK cells
+FR-FCM-ZYY6,NK receptors
+FR-FCM-ZYY6,NKG2C
+FR-FCM-ZYY6,adaptive NK cells
+FR-FCM-ZY23,FDG
+FR-FCM-ZY23,Katuskha
+FR-FCM-ZY23,cis and trans reporters
+FR-FCM-ZY24,Intracellular cytokines; CD8 T cells
+FR-FCM-ZY24,IFNg
+FR-FCM-ZY24,ESX-1
+FR-FCM-ZY24,TNFa
+FR-FCM-ZY2B,membrane integrity
+FR-FCM-ZY2B,SYTOX Green
+FR-FCM-ZY2B,green fluorescence
+FR-FCM-ZY2E,quantiFlash
+FR-FCM-ZY2E,instrument characterization
+FR-FCM-ZY2E,dynamic range
+FR-FCM-ZY2E,signal-to-noise
+FR-FCM-ZY2V,kinetic flow cytometry
+FR-FCM-ZY2V,Bacteria
+FR-FCM-ZY2V,real-time flow cytometry
+FR-FCM-ZY3Z,flow cytometry
+FR-FCM-ZY3Z,mass cytometry
+FR-FCM-ZY3Z,CyTOF
+FR-FCM-ZY3Z,Standardization
+FR-FCM-ZY34,flow cytometry
+FR-FCM-ZY34,mass cytometry
+FR-FCM-ZY34,PD-1
+FR-FCM-ZY34,biomarker prediction
+FR-FCM-ZY34,immunotherapy
+FR-FCM-ZY34,immune signature
+FR-FCM-ZY36,T cell
+FR-FCM-ZY36,cell surface markers
+FR-FCM-ZY36,Chagas disease
+FR-FCM-ZY3E,Adult Stem Cells
+FR-FCM-ZY3E,Skeletal Muscle
+FR-FCM-ZY3E,Progenitor Cells
+FR-FCM-ZY3E,Homeostasis
+FR-FCM-ZY3F,Adult Stem Cells
+FR-FCM-ZY3F,CyTOF
+FR-FCM-ZY3F,injured cells
+FR-FCM-ZY3F,Skeletal Muscle
+FR-FCM-ZY3F,Progenitor Cells
+FR-FCM-ZY3G,Adult Stem Cells
+FR-FCM-ZY3G,CyTOF
+FR-FCM-ZY3G,Skeletal Muscle
+FR-FCM-ZY3G,Progenitor Cells
+FR-FCM-ZY3G,Muta
+FR-FCM-ZY3H,Adult Stem Cells
+FR-FCM-ZY3H,Mutation
+FR-FCM-ZY3H,CyTOF
+FR-FCM-ZY3H,Skeletal Muscle
+FR-FCM-ZY3H,Progenitor Cells
+FR-FCM-ZY3W,Adult Stem Cells
+FR-FCM-ZY3W,CyTOF
+FR-FCM-ZY3W,Skeletal Muscle
+FR-FCM-ZY3W,Progenitor Cells
+FR-FCM-ZY3J,Adult Stem Cells
+FR-FCM-ZY3J,Mutation
+FR-FCM-ZY3J,CyTOF
+FR-FCM-ZY3J,Skeletal Muscle
+FR-FCM-ZY3J,Progenitor Cells
+FR-FCM-ZY3K,Adult Stem Cells
+FR-FCM-ZY3K,CyTOF
+FR-FCM-ZY3K,Skeletal Muscle
+FR-FCM-ZY3K,Progenitor Cells
+FR-FCM-ZY3K,Injure
+FR-FCM-ZY3M,flow cytometry
+FR-FCM-ZY3M,Immunophenotyping
+FR-FCM-ZY3M,fluorescent cell barcoding
+FR-FCM-ZY3M,viability dye
+FR-FCM-ZY3S,Wilms’ tumor antigen (WT1)
+FR-FCM-ZY3S,antigen-specific CD8+ T cells
+FR-FCM-ZY3S,MHC Streptamer
+FR-FCM-ZY3S,singleplatform
+FR-FCM-ZY3T,cancer stem cells
+FR-FCM-ZY3T,Sox9
+FR-FCM-ZY3T,hepatic progenitor cells
+FR-FCM-ZY3T,liver
+FR-FCM-ZY3T,URI mouse model
+FR-FCM-ZY3T,HCC
+FR-FCM-ZY3T,Adenomas
+FR-FCM-ZY3V,APOPTOSIS
+FR-FCM-ZY3V,mouse T cells
+FR-FCM-ZY3V,IFNg
+FR-FCM-ZY3V,CD 4 T cells
+FR-FCM-ZY3V,Th0
+FR-FCM-ZY3V,Th1
+FR-FCM-ZY3V,4sU-labeling
+FR-FCM-ZY4Z,monocytes
+FR-FCM-ZY4Z,LPS
+FR-FCM-ZY4Z,FoxP3
+FR-FCM-ZY4Z,IL-2
+FR-FCM-ZY4Z,T cells
+FR-FCM-ZY4Z,nuclear localization
+FR-FCM-ZY4Z,NF-kB
+FR-FCM-ZY4Z,Subcellular Localization
+FR-FCM-ZY4Z,Cell Signaling
+FR-FCM-ZY4Z,RelA
+FR-FCM-ZY4Z,STAT5
+FR-FCM-ZY4Z,Tregs
+FR-FCM-ZY4Z,regulatory T cells
+FR-FCM-ZY46,autofluorescence
+FR-FCM-ZY46,process monitoring
+FR-FCM-ZY46,biogas
+FR-FCM-ZY46,anaerobic digestion
+FR-FCM-ZY46,single cell analytics
+FR-FCM-ZY46,F420
+FR-FCM-ZY46,methanogenic archaea
+FR-FCM-ZY46,16S rDNA sequencing
+FR-FCM-ZY4F,T cell
+FR-FCM-ZY4F,mass cytometry
+FR-FCM-ZY4F,ccRCC
+FR-FCM-ZY4F,Tumor associated macrophages
+FR-FCM-ZY4N,B-cell
+FR-FCM-ZY4N,High Throughput
+FR-FCM-ZY4N,mouse
+FR-FCM-ZY4N,Antibody Repertoire
+FR-FCM-ZY4P,Innate Immune Response
+FR-FCM-ZY4P,inflammation
+FR-FCM-ZY4P,lacrimal gland
+FR-FCM-ZY5L,IMMUNOPHENOTYPE
+FR-FCM-ZY5L,Canine cardiosphere-derived cells
+FR-FCM-ZY5L,mesenchymal stem cell
+FR-FCM-ZY6Y,Yeast
+FR-FCM-ZY6Y,galactose
+FR-FCM-ZY6Y,dynamic gene expression
+FR-FCM-ZY6Y,GFP reporter
+FR-FCM-ZY6Y,GAL network
+FR-FCM-ZY6Y,diauxic shift
+FR-FCM-ZY66,flow cytometry
+FR-FCM-ZY66,mass cytometry
+FR-FCM-ZY66,CyTOF
+FR-FCM-ZY66,Standardization
+FR-FCM-ZY66,mouse
+FR-FCM-ZY66,immune-monitoring
+FR-FCM-ZY68,bromodomain inhibitor
+FR-FCM-ZY68,mixed-lineage leukemia
+FR-FCM-ZY68,replication
+FR-FCM-ZY68,reproducibility
+FR-FCM-ZY68,metascience
+FR-FCM-ZY68,Reproducibility Project: Cancer Biology
+FR-FCM-ZY69,mass cytometry
+FR-FCM-ZY69,CyTOF
+FR-FCM-ZY69,mouse
+FR-FCM-ZY69,tumor
+FR-FCM-ZY69,PD-1
+FR-FCM-ZY69,TIL
+FR-FCM-ZY69,CTLA-4
+FR-FCM-ZY69,checkpoint blockade
+FR-FCM-ZY6A,mass cytometry
+FR-FCM-ZY6A,CyTOF
+FR-FCM-ZY6A,melanoma
+FR-FCM-ZY6A,PD-1
+FR-FCM-ZY6A,CTLA-4
+FR-FCM-ZY6A,checkpoint blockade
+FR-FCM-ZY6A,murine tumor model
+FR-FCM-ZY6A,B16
+FR-FCM-ZY6C,T cell
+FR-FCM-ZY6C,mass cytometry
+FR-FCM-ZY6C,CyTOF
+FR-FCM-ZY6C,melanoma
+FR-FCM-ZY6C,PD-1
+FR-FCM-ZY6C,TIL
+FR-FCM-ZY6C,CTLA-4
+FR-FCM-ZY6C,checkpoint blockade
+FR-FCM-ZY6D,Human prostate
+FR-FCM-ZY6D,Benign prostatic hyperplasia
+FR-FCM-ZY6D,Epithelia
+FR-FCM-ZY6D,Tissue phenotyping
+FR-FCM-ZY6M,flow cytometry
+FR-FCM-ZY6M,microbial communities
+FR-FCM-ZY6M,microbiology
+FR-FCM-ZY6N,Fluorescent proteins
+FR-FCM-ZY6N,Compensation
+FR-FCM-ZY6N,mice
+FR-FCM-ZY6N,Genetic Reporters
+FR-FCM-ZY6X,Fluorescent proteins
+FR-FCM-ZY6X,Compensation
+FR-FCM-ZY6X,mice
+FR-FCM-ZY6X,Genetic Reporters
+FR-FCM-ZY7Z,Cancer
+FR-FCM-ZY7Z,Phenotyping
+FR-FCM-ZY7Z,mass cytometry
+FR-FCM-ZY7Z,head and neck squamous cell carcinoma (HNSCC)
+FR-FCM-ZY77,mass cytometry
+FR-FCM-ZY77,Systems Biology
+FR-FCM-ZY77,ASCT
+FR-FCM-ZY7C,microbial flow cytometry
+FR-FCM-ZY7C,saliva
+FR-FCM-ZY7C,mouth microbiome
+FR-FCM-ZY7C,cell counting
+FR-FCM-ZY7C,microbial diversity]
+FR-FCM-ZY7E,Gene expression
+FR-FCM-ZY7E,fitness optimum
+FR-FCM-ZY7E,robustness.
+FR-FCM-ZY7U,characterization
+FR-FCM-ZY7U,Mesenchymal stem cells
+FR-FCM-ZY7U,Placenta
+FR-FCM-ZY8Y,cis-regulatory mutations
+FR-FCM-ZY8Y,expression noise
+FR-FCM-ZY8Y,promoter activity
+FR-FCM-ZY8Y,fitness
+FR-FCM-ZY87,Intracellular Cytokine Staining
+FR-FCM-ZY87,dendritic cells
+FR-FCM-ZY87,Dengue
+FR-FCM-ZY87,DENV
+FR-FCM-ZY8B,Gene expression
+FR-FCM-ZY8B,Mutation
+FR-FCM-ZY8B,gene-by-environment interactions
+FR-FCM-ZY8B,distribution of mutational effects
+FR-FCM-ZY8B,polymorphism
+FR-FCM-ZY8B,genetic architecture
+FR-FCM-ZY8B,cis-regulation
+FR-FCM-ZY8D,Gene expression
+FR-FCM-ZY8D,Mutation
+FR-FCM-ZY8D,gene-by-environment interactions
+FR-FCM-ZY8D,distribution of mutational effects
+FR-FCM-ZY8D,polymorphism
+FR-FCM-ZY8D,genetic architecture
+FR-FCM-ZY8D,cis-regulation
+FR-FCM-ZY8G,fingerprinting
+FR-FCM-ZY8G,Lactobacillus
+FR-FCM-ZY8G,SG
+FR-FCM-ZY8G,SGPI
+FR-FCM-ZY9B,alveolar macrophage
+FR-FCM-ZY9B,CyTOF
+FR-FCM-ZY9B,Lung
+FR-FCM-ZY9B,macrophage
+FR-FCM-ZY9B,Tumor associated macrophages
+FR-FCM-ZY9B,Smoking
+FR-FCM-ZY9B,NSCLC
+FR-FCM-ZY9B,cerium
+FR-FCM-ZY9W,bronchoalveolar lavage
+FR-FCM-ZY9W,mass cytometry
+FR-FCM-ZY9W,CD4+ T cells
+FR-FCM-ZY9W,sarcoidosis
+FR-FCM-ZY9W,Löfgren's syndrome
+FR-FCM-ZY9M,mass cytometry
+FR-FCM-ZY9M,CyTOF
+FR-FCM-ZY9M,NSCLC
+FR-FCM-ZY9M,adenocarcinoma
+FR-FCM-ZY9M,human; IL-17A; Streptococcus pneumoniae; CD4 T cell; macrophage; Lung
+FR-FCM-ZY9N,mass cytometry
+FR-FCM-ZY9N,CyTOF
+FR-FCM-ZY9N,NSCLC
+FR-FCM-ZY9N,adenocarcinoma
+FR-FCM-ZY9X,Intracellular Cytokine Staining
+FR-FCM-ZY9X,mass cytometry
+FR-FCM-ZY9X,CyTOF
+FR-FCM-ZY9X,NSCLC
+FR-FCM-ZY9T,Gene expression
+FR-FCM-ZY9T,Plasticity
+FR-FCM-ZY9T,TDH3
+FR-FCM-ZYA4,flow cytometry
+FR-FCM-ZYA4,NK cells
+FR-FCM-ZYA4,Cytotoxicity
+FR-FCM-ZYA4,IFNg
+FR-FCM-ZYA4,MSCs
+FR-FCM-ZYAE,NK cells
+FR-FCM-ZYAE,NK receptors
+FR-FCM-ZYAE,human mesenchymal stromal cells (hMSC)
+FR-FCM-ZYAJ,healthy controls
+FR-FCM-ZYAJ,human PBMCs
+FR-FCM-ZYAJ,CyTOF
+FR-FCM-ZYB7,mesenchymal stromal cells (MSC)
+FR-FCM-ZYB7,adipose derived stromal cells (ASC)
+FR-FCM-ZYB7,adrenergic receptors
+FR-FCM-ZYB8,mammary epithelial cells
+FR-FCM-ZYB8,CyTOF
+FR-FCM-ZYB8,Cell Signaling
+FR-FCM-ZYBB,mammary epithelial cells
+FR-FCM-ZYBB,mass cytometry
+FR-FCM-ZYBB,Cell Signaling
+FR-FCM-ZYBC,mammary epithelial cells
+FR-FCM-ZYBC,mass cytometry
+FR-FCM-ZYBC,Cell Signaling
+FR-FCM-ZYBD,mammary epithelial cells
+FR-FCM-ZYBD,mass cytometry
+FR-FCM-ZYBD,Cell Signaling
+FR-FCM-ZYBG,Innate Immune Response
+FR-FCM-ZYBG,vaccines
+FR-FCM-ZYBG,macaques
+FR-FCM-ZYBN,Bacteria
+FR-FCM-ZYBN,IL-17A
+FR-FCM-ZYBN,IFN-γ
+FR-FCM-ZYBN,innate immunity
+FR-FCM-ZYBN,γδ T cell
+FR-FCM-ZYBN,Bcl11b
+FR-FCM-ZYBN,DN2a
+FR-FCM-ZYBN,Granzyme
+FR-FCM-ZYBN,Host defense
+FR-FCM-ZYBN,Listeria monocytogenes
+FR-FCM-ZYBP,flow cytometry
+FR-FCM-ZYBP,OMIP
+FR-FCM-ZYBP,plasma cells
+FR-FCM-ZYBS,PBMC
+FR-FCM-ZYBS,technical variability
+FR-FCM-ZYBT,T lymphocyte
+FR-FCM-ZYBT,Latent TB
+FR-FCM-ZYBU,PBMC
+FR-FCM-ZYBU,T lymphocyte
+FR-FCM-ZYC2,Immunophenotyping
+FR-FCM-ZYC2,human PBMCs
+FR-FCM-ZYC2,dendritic cells
+FR-FCM-ZYC2,high-dimensional cytometry
+FR-FCM-ZYC2,antigen-presenting cells
+FR-FCM-ZYC2,myeloid cells
+FR-FCM-ZYC2,human tissue
+FR-FCM-ZYC4,flow cytometry; data analysis; statistical analysis; normalization
+FR-FCM-ZYC4,Multi-dimensional
+FR-FCM-ZYC4,antibiotic susceptibility test
+FR-FCM-ZYCR,APOPTOSIS
+FR-FCM-ZYCR,BH3-only proteins
+FR-FCM-ZYCR,JNK
+FR-FCM-ZYDY,Thymus
+FR-FCM-ZYDY,thymic epithelial cells
+FR-FCM-ZYDY,thymic stromal cells
+FR-FCM-ZYD2,Thymus
+FR-FCM-ZYD2,thymic epithelial cells
+FR-FCM-ZYD2,thymic organ cultures
+FR-FCM-ZYD5,monocytes
+FR-FCM-ZYD5,ADCC
+FR-FCM-ZYD5,Granzyme B
+FR-FCM-ZYD5,natural killer (NK cells)
+FR-FCM-ZYDC,B cells
+FR-FCM-ZYDC,chemokine receptors
+FR-FCM-ZYDC,NK cells
+FR-FCM-ZYDC,T cells
+FR-FCM-ZYDC,dendritic cells
+FR-FCM-ZYDC,myeloid cells
+FR-FCM-ZYDC,human blood immunophenotyping
+FR-FCM-ZYDD,Immunophenotyping
+FR-FCM-ZYDD,human PBMCs
+FR-FCM-ZYDD,multi-parametric flow cytometry
+FR-FCM-ZYDD,immunology
+FR-FCM-ZYDD,multiparametric analysis
+FR-FCM-ZYDW,bead-based separation
+FR-FCM-ZYDW,mass cytometry
+FR-FCM-ZYDW,CyTOF
+FR-FCM-ZYDW,CyTOF; mass cytometry; flow cytometry; standardization
+FR-FCM-ZYDW,viSNE
+FR-FCM-ZYDW,SPADE
+FR-FCM-ZYDW,PhenoGraph
+FR-FCM-ZYDW,Citrus
+FR-FCM-ZYDW,X-shift
+FR-FCM-ZYDW,VorteX
+FR-FCM-ZYDW,non-small cell lung cancer
+FR-FCM-ZYDW,gHV68
+FR-FCM-ZYDL,CD82
+FR-FCM-ZYDL,PDGFRa
+FR-FCM-ZYEB,flow cytometry
+FR-FCM-ZYEB,PBMC
+FR-FCM-ZYEB,signaling
+FR-FCM-ZYEB,Barcoding
+FR-FCM-ZYEB,Multiparameter
+FR-FCM-ZYEB,Phosphorylation
+FR-FCM-ZYEF,Sjögren’s syndrome
+FR-FCM-ZYEF,extraglandular manifestations
+FR-FCM-ZYEF,autoantibodies
+FR-FCM-ZYEF,phosphoflow
+FR-FCM-ZYEF,type I interferon
+FR-FCM-ZYEV,JNK
+FR-FCM-ZYEV,Breast Cancer
+FR-FCM-ZYEV,Cell death
+FR-FCM-ZYEV,Cell survival
+FR-FCM-ZYFB,B cells
+FR-FCM-ZYFB,chemokine receptors
+FR-FCM-ZYFB,plasmablasts
+FR-FCM-ZYFB,cytokine receptors
+FR-FCM-ZYFB,surface immunoglobulin isotypes
+FR-FCM-ZYFB,chronic viral diseases
+FR-FCM-ZYFN,SHIME
+FR-FCM-ZYFN,clindamycin
+FR-FCM-ZYFN,AXOS
+FR-FCM-ZYFN,wheat bran
+FR-FCM-ZYFV,hematopoietic stem cells
+FR-FCM-ZYFV,mass cytometry
+FR-FCM-ZYFV,CyTOF
+FR-FCM-ZYFV,HSC
+FR-FCM-ZYFV,Progenitor Cells
+FR-FCM-ZYFV,Human cord blood
+FR-FCM-ZYFV,CD34+
+FR-FCM-ZYFV,haematopoiesis
+FR-FCM-ZYFV,CD49f cells
+FR-FCM-ZYFV,haematopoietic stem cell
+FR-FCM-ZYGA,flow cytometry
+FR-FCM-ZYGA,dimension reduction
+FR-FCM-ZYGA,Compensation
+FR-FCM-ZYGA,high-dimensional cytometry
+FR-FCM-ZYGA,automated data analysis
+FR-FCM-ZYGA,automated phenotyping
+FR-FCM-ZYGA,unsupervised clustering
+FR-FCM-ZYGA,data preparation
+FR-FCM-ZYGA,spectral data
+FR-FCM-ZYGA,pseudo-spectral data
+FR-FCM-ZYGA,data-input modes evaluation
+FR-FCM-ZYGW,ergothioneine
+FR-FCM-ZYGW,mycothiol
+FR-FCM-ZYGW,gamma-glutamylcysteine
+FR-FCM-ZYGW,mycobacterial membrane
+FR-FCM-ZYGW,thiols secretion
+FR-FCM-ZYGV,Bacteria
+FR-FCM-ZYGV,water
+FR-FCM-ZYHZ,monocytes
+FR-FCM-ZYHZ,whole blood
+FR-FCM-ZYHZ,activation
+FR-FCM-ZYHZ,CyTOF
+FR-FCM-ZYHZ,Phosphorylation
+FR-FCM-ZYHZ,SmartTube
+FR-FCM-ZYHZ,Sickle Cell disease
+FR-FCM-ZYHY,Bacteria
+FR-FCM-ZYHY,water
+FR-FCM-ZYH2,Bacteria
+FR-FCM-ZYH2,water
+FR-FCM-ZYHB,Bacteria
+FR-FCM-ZYHB,water
+FR-FCM-ZYHL,flow cytometry
+FR-FCM-ZYHL,dimension reduction
+FR-FCM-ZYHL,Compensation
+FR-FCM-ZYHL,high-dimensional cytometry
+FR-FCM-ZYHL,automated data analysis
+FR-FCM-ZYHL,automated phenotyping
+FR-FCM-ZYHL,unsupervised clustering
+FR-FCM-ZYHL,data preparation
+FR-FCM-ZYHL,spectral data
+FR-FCM-ZYHL,pseudo-spectral data
+FR-FCM-ZYHL,data-input modes evaluation
+FR-FCM-ZYWY,CD8
+FR-FCM-ZYWY,mass cytometry
+FR-FCM-ZYWY,CyTOF
+FR-FCM-ZYWY,high-dimensional cytometry
+FR-FCM-ZYWY,One-SENSE
+FR-FCM-ZYWY,t-SNE
+FR-FCM-ZYW7,melanoma
+FR-FCM-ZYW7,tumor microenvironment
+FR-FCM-ZYW7,CyTOF; mass cytometry;cancer
+FR-FCM-ZYW8,mass cytometry
+FR-FCM-ZYW8,CyTOF
+FR-FCM-ZYW8,melanoma
+FR-FCM-ZYW9,high content flow cytometry
+FR-FCM-ZYW9,Immunophenotyping
+FR-FCM-ZYW9,mass cytometry
+FR-FCM-ZYW9,melanoma
+FR-FCM-ZYWA,Immunophenotyping
+FR-FCM-ZYWA,mass cytometry
+FR-FCM-ZYWA,melanoma
+FR-FCM-ZYWC,Immunophenotyping
+FR-FCM-ZYWC,mass cytometry
+FR-FCM-ZYWC,melanoma
+FR-FCM-ZYWC,tumor
+FR-FCM-ZYWM,Cancer
+FR-FCM-ZYWM,mass cytometry
+FR-FCM-ZYWM,CyTOF
+FR-FCM-ZYWS,Gene expression
+FR-FCM-ZYWS,Evolution
+FR-FCM-ZYWS,Yeast
+FR-FCM-ZYWT,Gene expression
+FR-FCM-ZYWT,Evolution
+FR-FCM-ZYWT,Yeast
+FR-FCM-ZYWU,Gene expression
+FR-FCM-ZYWU,Evolution
+FR-FCM-ZYWU,Yeast
+FR-FCM-ZYWU,cis-regulation
+FR-FCM-ZYWV,Gene expression
+FR-FCM-ZYWV,Evolution
+FR-FCM-ZYWV,Yeast
+FR-FCM-ZYWV,cis-regulation
+FR-FCM-ZYJZ,Gene expression
+FR-FCM-ZYJZ,Evolution
+FR-FCM-ZYJZ,Yeast
+FR-FCM-ZYJZ,cis-regulation
+FR-FCM-ZYJY,Gene expression
+FR-FCM-ZYJY,Evolution
+FR-FCM-ZYJY,Yeast
+FR-FCM-ZYJY,cis-regulation
+FR-FCM-ZYJ2,Gene expression
+FR-FCM-ZYJ2,Evolution
+FR-FCM-ZYJ2,Yeast
+FR-FCM-ZYJ2,cis-regulation
+FR-FCM-ZYJN,fitness optimum
+FR-FCM-ZYJN,expression noise
+FR-FCM-ZYJN,cell proliferation
+FR-FCM-ZYJX,expression noise
+FR-FCM-ZYJX,Positional effect
+FR-FCM-ZYJX,Expression level
+FR-FCM-ZYKR,T-cells
+FR-FCM-ZYKR,mitochondria
+FR-FCM-ZYKR,Immunologic techniques
+FR-FCM-ZYL6,gold nanoparticles
+FR-FCM-ZYL6,dilution
+FR-FCM-ZYL8,CyTOF
+FR-FCM-ZYL8,high-dimensional cytometry
+FR-FCM-ZYLB,single species
+FR-FCM-ZYLB,phototrophic biofilm
+FR-FCM-ZYLF,T cell
+FR-FCM-ZYLF,CD8
+FR-FCM-ZYLF,tSNE
+FR-FCM-ZYLF,polychromatic flow cytometry
+FR-FCM-ZYLF,single cell
+FR-FCM-ZYLF,high-dimensional data
+FR-FCM-ZYMC,flow cytometry
+FR-FCM-ZYMC,CytoBackBone
+FR-FCM-ZYMC,single cell level
+FR-FCM-ZYMD,mass cytometry
+FR-FCM-ZYMD,CytoBackBone
+FR-FCM-ZYMD,single cell level
+FR-FCM-ZYMF,HIV
+FR-FCM-ZYMF,inflammatory markers
+FR-FCM-ZYMF,mass cytometry
+FR-FCM-ZYN7,Human preterm cord blood
+FR-FCM-ZYN7,myeloid dendritic cells
+FR-FCM-ZYN7,dendritic cells
+FR-FCM-ZYN7,antigen-presenting cells
+FR-FCM-ZYN7,intestine
+FR-FCM-ZYN7,gut
+FR-FCM-ZYND,Eosinophils
+FR-FCM-ZYND,glucocorticoids
+FR-FCM-ZYND,CXCR4
+FR-FCM-ZYND,CCR1
+FR-FCM-ZYND,CCR3
+FR-FCM-ZYNE,APOPTOSIS
+FR-FCM-ZYNE,Eosinophils
+FR-FCM-ZYNE,glucocorticoids
+FR-FCM-ZYNJ,Sperm
+FR-FCM-ZYNJ,propidium iodide
+FR-FCM-ZYNJ,SYBR Green I
+FR-FCM-ZYNV,dendritic cells
+FR-FCM-ZYNV,IBD
+FR-FCM-ZYNV,anti-TNF-a
+FR-FCM-ZYX4,T-cells
+FR-FCM-ZYX4,mitochondria
+FR-FCM-ZYX4,Immunologic techniques
+FR-FCM-ZYX8,Embryonic stem cells
+FR-FCM-ZYX8,cardiac differentiation
+FR-FCM-ZYPM,mass cytometry
+FR-FCM-ZYPM,CyTOF
+FR-FCM-ZYPM,mouse
+FR-FCM-ZYPM,tumor
+FR-FCM-ZYPM,PD-1
+FR-FCM-ZYPM,CTLA-4
+FR-FCM-ZYPM,T3 tumor
+FR-FCM-ZYPM,checkpoint therapy
+FR-FCM-ZYPN,mass cytometry
+FR-FCM-ZYPN,CyTOF
+FR-FCM-ZYPN,tumor
+FR-FCM-ZYPN,PD-1
+FR-FCM-ZYPN,CTLA-4
+FR-FCM-ZYPN,checkpoint therapy
+FR-FCM-ZYPN,T3 MCA sarcoma
+FR-FCM-ZYPN,time course
+FR-FCM-ZYPX,mass cytometry
+FR-FCM-ZYPX,tumor
+FR-FCM-ZYPX,PD-1
+FR-FCM-ZYPX,CTLA-4
+FR-FCM-ZYPX,checkpoint therapy
+FR-FCM-ZYPX,T3 MCA sarcoma
+FR-FCM-ZYPX,anti IFNg
+FR-FCM-ZYQ9,B cells
+FR-FCM-ZYQ9,flow cytometry
+FR-FCM-ZYQ9,NK cells
+FR-FCM-ZYQ9,monocytes
+FR-FCM-ZYQ9,healthy controls
+FR-FCM-ZYQ9,T cells
+FR-FCM-ZYQ9,dendritic cells
+FR-FCM-ZYQ9,bone marrow
+FR-FCM-ZYQ9,bone marrow mononuclear cells
+FR-FCM-ZYQB,T cell
+FR-FCM-ZYQB,CD4 T cells
+FR-FCM-ZYQB,CD8 T cells
+FR-FCM-ZYQB,bone marrow
+FR-FCM-ZYQB,T regulatory cells
+FR-FCM-ZYQB,bone marrow mononuclear cells
+FR-FCM-ZYQB,healthy
+FR-FCM-ZYQL,hematopoiesis
+FR-FCM-ZYQL,cell cycle measurement
+FR-FCM-ZYQL,mass cy
+FR-FCM-ZYQL,IdU staining
+FR-FCM-ZYQP,flow cytometry
+FR-FCM-ZYQP,single cell suspension
+FR-FCM-ZYQP,tissue digestion
+FR-FCM-ZYQP,disaggregation
+FR-FCM-ZYQT,automated gating
+FR-FCM-ZYQT,Immunophenotyping
+FR-FCM-ZYQT,multi-site study
+FR-FCM-ZYQT,standardized flow cytometry
+FR-FCM-ZYQT,Blood-based biomarkers
+FR-FCM-ZYRD,CD4 T cells
+FR-FCM-ZYRD,mass cytometry
+FR-FCM-ZYRD,human fetal intestine
+FR-FCM-ZYSA,CyTOF
+FR-FCM-ZYSA,E. coli
+FR-FCM-ZYSA,lectin
+FR-FCM-ZYSA,metal-chelating polymer
+FR-FCM-ZYSA,O-antigen transport
+FR-FCM-ZYTZ,human PBMCs
+FR-FCM-ZYTZ,mass cytometry
+FR-FCM-ZYTZ,CyTOF
+FR-FCM-ZYTZ,infectious disease
+FR-FCM-ZYTZ,chikungunya
+FR-FCM-ZYTY,Blood
+FR-FCM-ZYTY,Progenitor Cells
+FR-FCM-ZYTY,panel design
+FR-FCM-ZYTY,bone marrow
+FR-FCM-ZYTY,Hematopoietic cells
+FR-FCM-ZYTY,HSCs
+FR-FCM-ZYTR,flow cytometry
+FR-FCM-ZYTR,human PBMCs
+FR-FCM-ZYTR,cell surface markers
+FR-FCM-ZYTR,Monocyte subpopulation
+FR-FCM-ZYTR,Chagas disease
+FR-FCM-ZYUF,spleen
+FR-FCM-ZYUF,mass cytometry
+FR-FCM-ZYUF,glioblastoma
+FR-FCM-ZYUF,mouse
+FR-FCM-ZYUF,bone marrow
+FR-FCM-ZYUF,brain
