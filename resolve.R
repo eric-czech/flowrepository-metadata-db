@@ -13,7 +13,6 @@ library(tidyverse)
 
 # Parameter/channel name normalization function with anything parenthetical 
 # stripped out, trimmed and converted to upper case
-#prep_str <- function(x) x %>% str_replace_all('[\\(\\[\\{].*[\\)\\]\\}]', '') %>% str_trim %>% str_to_upper
 prep_str <- function(x) x %>% str_trim %>% str_to_upper
 
 # Function used to resolve HGNC symbol groups to a single preferred name where

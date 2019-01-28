@@ -24,8 +24,8 @@ different parameter naming conventions into a common nomenclature.  An effort is
 | 173Yb_Tbet_Yb173Di|TBX21|
 | CD14.PerCP/ PI-A|CD14|
 
-You get the picture.  The matching isn't perfect but using typical name delimiters like ```[./ -#]``` and joining the resulting terms to a master lookup table resolves most cases, and gives preference to CD designations for the sake of cross-dataset comparison.  There is also a manual list of mappings in [data/param_map_edits.csv]([data/param_map_edits.csv]) that can be altered to remap with new manual additions (or with changes made to resolve.R).  This list was built with a focus on T cell markers so more entries might be necessary to reach a good normalization for other kinds of studies.
+You get the picture.  The matching isn't perfect but using typical name delimiters like ```[./ -#]``` and joining the resulting terms to a master lookup table resolves most cases, and gives preference to CD designations for the sake of cross-dataset comparison.  There is also a manual list of mappings in [data/param_map_edits.csv](data/param_map_edits.csv) that can be altered to remap with new manual additions (or with changes made to resolve.R).  This list was built with a focus on T cell markers so more entries might be necessary to reach a good normalization for other kinds of studies.
 
-Analyzing the data requires nothing more than tidyverse since all data collected is stored as csvs.  See the [data](data) folder for results as of Jan 2019.  See [overview.Rmd](overview.md) for table content.
+Analyzing the data requires nothing more than ```tidyverse``` since all data collected is stored as csvs.  See the [data](data) folder for results as of Jan 2019.  See [overview.Rmd](overview.md) for table content.
 
 

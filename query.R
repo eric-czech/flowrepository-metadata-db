@@ -22,10 +22,12 @@ top_params <- df_chl %>%
 # top_params %>% print(n=100)
 
 df_chl_pivot <- df_chl %>% 
+  filter(!(exp_id %in% c('FR-FCM-ZYAH', 'FR-FCM-ZYAG'))) %>%
   group_by(exp_id, param) %>% tally %>% ungroup %>% select(-n) %>%
   filter(param %in% pull(top_params, param)) %>%
-  group_by(exp_id) %>% mutate(n_params=length(param)) %>% ungroup %>%
-  filter(n_params > 10) %>%
+  group_by(exp_id) %>% 
+  mutate(n_params=length(param), is_cytof='Event_length' %in% param) %>% ungroup %>%
+  filter(n_params > 10 & is_cytof) %>% select(-is_cytof) %>%
   spread(param, n_params)
 # dim(df_chl_pivot)
 
@@ -34,7 +36,6 @@ m <- ifelse(!is.na(m) & (m > 0), 1, 0)
 rownames(m) <- pull(df_chl_pivot, exp_id)
 #heatmap.2(m[1:100, 1:100], trace='none', cexCol=.2, cexRow=.2)
 #gplots::heatmap.2(m, trace='none', cexCol=.3, cexRow=.3)
-
 
 library(plotly)
 y <- hclust(dist(m, method='binary'))
