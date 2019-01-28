@@ -1,12 +1,21 @@
+#' FCS header scraping and FlowRepository project metadata collection script 
+#' 
+#' This script takes approximately ~4-5 hours to run in its entirety and at TOW (2019-01-27)
+#' collects information for about 700 datasets.
 library(FlowRepositoryR)
 library(tidyverse)
 library(dbplyr)
 library(logging)
 basicConfig()
 
+# Number of bytes to read for each FCS file (this should be large enough to capture
+# the header and text segments without slowing down processing too much -- 32K seems good)
+FCS_BYTE_OFFSET <- 32768
 
-FCS_BYTE_OFFSET <<- 32768
-FCS_MAX_FILES <<- 30
+# Maximum number of files to collect metadata for for a single dataset -- if a dataset
+# has more than this many, than they will be randomly sampled down to this number wich
+# is generally more than enough to get a sense of what parameters are present across all files
+FCS_MAX_FILES <- 30
 
 get_metadata <- function(dataset_id){
   data_set <- suppressWarnings(flowRep.get(dataset_id))
@@ -117,8 +126,10 @@ process_datasets <- function(dataset_ids, max_failures=50){
   data
 }
 
-# data_set <- flowRep.get("FR-FCM-ZZJ7")
+# Load list of all current dataset ids 
 data_sets <- flowRep.ls()
+
+# Process all and return results as nested lists, where top level is named by dataset id
 data_raw <- process_datasets(data_sets)
 data_raw <- data
 
@@ -133,8 +144,6 @@ loginfo(str_glue(
 ))
 data <- names(data) %in% failed_data_set_ids %>% `!` %>% data_raw[.]
 stopifnot(length(data) == length(data_raw) - length(failed_data_set_ids))
-
-# d <- process_datasets('FR-FCM-ZYRT')
 
 ##############
 # Extraction #
@@ -178,15 +187,5 @@ write_csv(df_kwd, 'data/keywords.csv')
 write_csv(df_fcs, 'data/fcs_files.csv')
 write_csv(df_chl, 'data/fcs_channels.csv')
 
-# db <- DBI::dbConnect(RSQLite::SQLite(), path = "data/flowrepository-metadata.sqlite")
-# copy_to(db, df_exp, 'experiments', indexes = list('exp_id'), overwrite=TRUE, temporary=FALSE)
-# copy_to(db, df_kwd, 'keywords', indexes = list('exp_id'), overwrite=TRUE, temporary=FALSE)
-# copy_to(db, df_fcs, 'fcs_files', indexes = list('exp_id'), overwrite=TRUE, temporary=FALSE)
-# copy_to(
-#   db, df_chl, 'fcs_channels', 
-#   indexes = list('exp_id', 'filename', 'param_names'),
-#   overwrite=TRUE, temporary=FALSE
-# )
-
-loginfo('Export complete')
+loginfo('All data collection complete')
 

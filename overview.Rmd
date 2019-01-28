@@ -1,0 +1,49 @@
+---
+title: "Metadata Overview"
+output: github_document
+---
+
+```{r, include=T, echo=T, message=F, warning=F}
+library(tidyverse)
+library(knitr)
+df_exp <- read_csv('data/experiments.csv', col_types=list())
+df_kwd <- read_csv('data/keywords.csv', col_types=list())
+df_fcs <- read_csv('data/fcs_files.csv', col_types=list())
+df_chl <- read_csv('data/fcs_channels_resolved.csv', col_types=list())
+set.seed(1)
+```
+
+```{r}
+df_exp %>% select(-attachments) %>% sample_n(5) %>% kable()
+```
+
+```{r}
+df_kwd %>% sample_n(5) %>% kable()
+```
+
+
+```{r}
+df_fcs %>% sample_n(5) %>% kable()
+```
+
+
+```{r}
+df_chl %>% sample_n(5) %>% kable()
+```
+
+```{r, fig.width=12}
+df_chl %>% 
+  # Ignore any parameter names that couldn't be matched (results are too messy otherwise)
+  filter(resolution == 'lookup') %>%
+  
+  # Get distinct set of experiment ids and parameter names
+  group_by(exp_id, param) %>% tally %>% select(-n) %>% ungroup %>%
+  
+  # Count and plot parameter frequencies
+  group_by(param) %>% tally %>% arrange(desc(n)) %>% head(100) %>%
+  mutate(param=reorder(param, -n)) %>%
+  ggplot(aes(x=param, y=n)) + geom_bar(stat='identity') + 
+  labs(x='Parameter', y='Num Datasets', title='Top 100 Parameters') +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```

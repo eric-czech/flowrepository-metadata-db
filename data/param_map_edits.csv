@@ -3,12 +3,14 @@ CD45RA,CD45RA
 CD45RO,CD45RO
 CD3,CD3
 CD3&19,CD3
+mCD3,CD3
 PSTAT1,STAT1
 PSTAT2,STAT2
 PSTAT3,STAT3
 PSTAT4,STAT4
 PSTAT5,STAT5
 PSTAT6,STAT6
+TCR,TCR
 TCR-Vg9,TCR-Vg9
 TCR Vg9,TCR-Vg9
 TCR-VGAMMA9,TCR-Vg9
@@ -49,19 +51,29 @@ TCR-beta,TCR-ab
 bTCR,TCR-ab
 HLA-DR,HLADR
 HLA DR,HLADR
+HLA-DR-174,HLADR
+HLA,HLA
 PD1,CD279
 PD-1,CD279
 PDL1,CD274
 PD-L1,CD274
+PD-L1-175,CD274
 CTLA-4,CD152
-INTB7,INTB7
-Ki67,Ki67
+Intergrin_beta7,INTB7
+Int_b7,INTB7
+Ki-67,Ki67
+Tbet,TBX21
 IgD,IgD
 IgE,IgE
-IgA,IgA
-IgG,IgG
 IgM,IgM
 IgY,IgY
+IgA1,IgA
+IgA2,IgA
+IgG1,IgG
+IgG2,IgG
+IgG2a,IgG
+IgG3,IgG
+IgG4,IgG
 CD66A,CD66
 CD66B,CD66
 CD158B,CD158B
@@ -70,18 +82,22 @@ Cisplatin,Cisplatin
 Perforin,Perforin
 Perforine,Perforin
 MCP-1_PERFORINE_NFKB,Perforin
+MHCI,MHC-I
+MHCII,MHC-II
 GranzymeB,GranzymeB
 Granzyme B,GranzymeB
 Granzyme-B,GranzymeB
 Granzyme_B,GranzymeB
 GranzB,GranzymeB
+GZB,GranzymeB
 158GD_GRANZYME_B,GranzymeB
 GRANZYME B PERCP-CY5.5-A,GranzymeB
 GranzymeA,GranzymeA
 Granzyme A,GranzymeA
 Granzyme-A,GranzymeA
 Granzyme_A,GranzymeA
-GranzB,GranzymeB
+GranzA,GranzymeA
+GZA,GranzymeA
 165HO_FOXP3_HO165DI,FOXP3
 IFNG,IFNg
 IFN-G,IFNg

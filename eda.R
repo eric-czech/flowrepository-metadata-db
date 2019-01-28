@@ -29,7 +29,9 @@ trans <- function(v)asinh(v)
 #df %>% select(!!!var) %>% mutate_all(funs(trans)) %>% ggplot(aes_string(x=var)) + geom_histogram(bins=64)
 
 devtools::source_gist('bf63a4833cf991a1595e3fc503856c4f')
-df %>% select(CD45RA, CCR7) %>% mutate_all(funs(trans)) %>% mutate(density=get_density(CD45RA, CCR7)) %>% 
+df %>% select(CD45RA, CCR7) %>% 
+  #mutate_all(funs(trans)) %>% 
+  mutate(density=get_density(CD45RA, CCR7)) %>% 
   ggplot(aes(x=CD45RA, y=CCR7, color=density)) + geom_point(size=.3, alpha=.5) +
   scale_color_gradientn(colours = rev(RColorBrewer::brewer.pal(11,"Spectral")))
 
